@@ -1,0 +1,50 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hina Sakazaki"
+disqusShortname = "shortcode-here"
+paginate = 5
+
+[taxonomies]
+	tag = "tags"
+	project = "projects"
+
+[params]
+	showglobe = false
+
+	favicon = "favicon.ico"
+	
+	analytics = "code-here"
+
+	email = "hinasakazaki@gmail.com"
+
+	profilepic = "img/profile.png"
+	
+	title = "Hina Sakazaki"
+	subtitle = "My website."
+
+	# Social buttons for sidebar
+	# Each of these are optional
+	[[params.socialbuttons]]
+	faicon = "github"
+	url = "https://github.com/hinasakazaki"
+	[[params.socialbuttons]]
+	faicon = "twitter"
+	url = "https://twitter.com/swaggerzaki"
+	[[params.socialbuttons]]
+	faicon = "linkedin"
+	url = "https://linkedin.com/in/hinasakazaki/"
+	[[params.socialbuttons]]
+	faicon = "google-plus"
+	url = "https://plus.google.com/+HinaSakazaki"
+
+	[[params.navlinks]]
+	name = "About"
+	url = "about"
+	
+	[[params.navlinks]]
+	name = "Blog"
+	url = ""
+	
+	[[params.navlinks]]
+	name = "Projects"
+	url = "tags/projects/"
