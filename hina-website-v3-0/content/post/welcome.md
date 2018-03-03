@@ -10,8 +10,8 @@ It was super easy and quick, and so much prettier. I highly recommend it!
 
 Some screenshots of my old website:
 
-![sadending](../../static/img/oldwebsite1.png)
+![website home](../../img/oldwebsite1.png)
 
-![sadending](../../static/img/oldwebsite2.png)
+![website projects](../../img/oldwebsite2.png)
 
 I did enjoy the thumbnails for my projects, so I can see if I can do that here, too, [itch.io](https://hinerz.itch.io/) style.

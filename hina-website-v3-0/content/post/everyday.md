@@ -17,8 +17,8 @@ Watch PlayThrough Video on [YouTube](https://youtu.be/uoLDPGg20Vw)
 ## Concept
 May or June of 2014, we celebrated our first year anniversary at a [paint-your-stuff place](https://www.yelp.com/biz/brushstrokes-studio-berkeley) and I painted this. 
 
-![back](https://github.com/hinasakazaki/EveryDayTheGame/blob/projectile/BalloonGame/docs/mug-back.JPG)
-![front](https://github.com/hinasakazaki/EveryDayTheGame/blob/projectile/BalloonGame/docs/mug-front.JPG)
+![back](../../img/everyday/mug-back.JPG)
+![front](../../img/everyday/mug-front.JPG)
 
 I didn't think of it as a game idea, but a cutesy little design. 
 
@@ -33,8 +33,8 @@ I watched a video of a proposal through a game, and it was a dungeon crawler. Th
 
 I sketched up stuff on bart, and did some concept art. The concept art is from May 2016.
 
-![sketch](https://github.com/hinasakazaki/EveryDayTheGame/blob/projectile/BalloonGame/docs/notebook.JPG)
-![conceptart](https://github.com/hinasakazaki/EveryDayTheGame/blob/projectile/BalloonGame/docs/conceptart.png)
+![sketch](../img/../everyday/notebook.JPG)
+![conceptart](../../img/everyday/conceptart.png)
 
 Back at the time, I had been playing a lot of [Fire Emblem: Fates](http://fireemblem.wikia.com/wiki/Fire_Emblem_Fates). 
 I loved the combination of choices/dialogue/story and gameplay. The winter prior, the target player was playing a lot of [Electronic Super Joy](http://www.electronicsuperjoy.com/), a very fast paced and exciting sidescroller. I wanted to make something that combined the two.
@@ -65,13 +65,13 @@ Of course, this was done in secret. Hard to do when we live together.
 
 This screencapture was taken five days before Christmas 2016.
 
-![conceptart](https://github.com/hinasakazaki/EveryDayTheGame/blob/projectile/BalloonGame/docs/dev-screenshot.gif)
+![conceptart](../../img/everyday/dev-screenshot.gif)
 
 Back then, I was still attached to Fire Emblem character designs and made variations of existing designs. 
 
 A few months later, I realized that it wasn't very "me", so created the current version character sprites.
 
-![charactersprites](https://github.com/hinasakazaki/EveryDayTheGame/blob/projectile/BalloonGame/Assets/sprites/charSpriteTest.png)
+![charactersprites](../../img/everyday/charSpriteTest.png)
 
 Early 2017, I reached out to my composer friend [Eric Delgado](https://soundcloud.com/ericdelgadomusic). Eric is the first friend I made in [UC Berkeley Symphony Orchestra](https://orchestra.berkeley.edu/). We met to brainstorm the soundtrack in early January 2017. I was able to commission for him for the full soundtrack, which you can listen to [here](https://github.com/hinasakazaki/EveryDayTheGame/tree/master/BalloonGame/Assets/sound/Every%20Day%20The%20Game%20OST%20by%20Eric%20Delgado).
 
@@ -87,12 +87,12 @@ At the start of this, the game had only two main mechanics: healing with mushroo
 I got feedback that some obstacles on the ground and jump mechanics would be nice to have. I didn't want to build out elaborate platformer obstacles, and wanted to stick to a simple, but cute one. I chose tentacles as a fun obstacle that could insta-trap and end the game. 
 
 Lots of bugs were found. Here's one of the screenshots one found:
-![conceptart](https://github.com/hinasakazaki/EveryDayTheGame/blob/projectile/BalloonGame/docs/bug.png)
+![conceptart](../../img/everyday/bug.png)
 
 At this point, I had raycasting and line renderers as the attack mechanic of the enemies (evil cats). I still have the code saved on the [radar](https://github.com/hinasakazaki/EveryDayTheGame/tree/radar) branch. 
 
 It looked like this:
-![radar gif](https://github.com/hinasakazaki/EveryDayTheGame/blob/projectile/BalloonGame/docs/radar.gif)
+![radar gif](../../img/everyday/radar.gif)
 
 Unfortunately, due to the raycast hits being super finnicky, I changed it to projectiles. It was not worth the bad UX. I probably spent the most time in the project trying to get raycast to work.
 
@@ -106,7 +106,7 @@ Checkpoints were actually quite easy to implement due to the code architecture I
 Some numbers I tweaked: speed & damage caused by bullets (hero bullets & cat bullets), mushroom healing power, sine & consine waves of cat bullets, speed of background scroll in each level. It could still use more work. I think this is pretty subjective. 
 
 One of the last pieces that I implemented that is significant in the game design is report card at the end.
-![report card](https://github.com/hinasakazaki/EveryDayTheGame/blob/projectile/BalloonGame/docs/reportcard.png)
+![report card](../../img/everyday/reportcard.png)
 
 No matter how many times you fail, you will eventually end up beating the boss with the new checkpoint system.
 I didn't like this, because I wanted each experience to matter. However, an experience is just unpleasant if you have to re-do the same levels over and over again.

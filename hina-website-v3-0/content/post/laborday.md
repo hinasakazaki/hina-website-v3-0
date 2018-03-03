@@ -17,9 +17,9 @@ A quote struck out to me from one of the articles I was reading “He claimed th
 
 So I made a game that is a extreme take on this: multiple cameras, a ubiquitous “warehouse manager”, a few panels on the top showing a thumbnail of the warehouse’s condition, you can flip between and react with what things that may be happening: stealing, laziness, etc.
 
-![entry](../../static/img/laborday1.png)
+![entry](../../img/laborday1.png)
 
-![slackingoff](../../static/img/laborday2.png)
+![slackingoff](../../img/laborday2.png)
 
 Backstory: 
 There are cameras everywhere at DelightWorks toy factory, even the restroom. The manager, Miz, is also ubiquitous, she can go make sure everyone can do their work properly. Unfortunately, some workers steal. Some just slack off. But Miz is there to make sure that they are corrected. 

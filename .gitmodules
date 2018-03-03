@@ -1,0 +1,4 @@
+[submodule "hina-website-v3-0/public"]
+	path = hina-website-v3-0/public
+	url = git@github.com:hinasakazaki/hinasakazaki.github.io.git
+	branch = master

@@ -13,14 +13,21 @@ boyfriend says he wants something --> player works, makes money, buys it for him
 Yes, super strange and reductionalist. Oh well!
 
 Eventually I added more features to the game by adding win/lose conditions:
+
 - Win love by money
+
 - Make money by working
+
 - Working too much will disinterest your love
+
 - Buying something your lover doesn't want will also diminish your love
+
 - Being in debt will also lead to your lover leaving
 
-![game](../../static/img/vday3.png)
-![sadending](../../static/img/vday2.png)
-![happyending](../../static/img/vday1.png)
+![game](../../img/vday3.png)
+
+![sadending](../../img/vday2.png)
+
+![happyending](../../img/vday1.png)
 
 So it's sort of a balancing act of sorts. Still super simple. 

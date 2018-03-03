@@ -15,14 +15,14 @@ We won first place!
 An app for capturing, sharing, and collaborating on musical ideas.
 
 ## Walkthrough 
-![Walkthrough 3](https://github.com/teamVCH/sway/blob/master/walkthrough3.gif)
+![Walkthrough 3](../../img/sway/walkthrough3.gif)
 
 ### Previous walkthroughs: 
-![Walkthrough 1](https://github.com/teamVCH/sway/blob/master/walkthrough1.gif)
+![Walkthrough 1](../../img/sway/walkthrough1.gif)
 
-![Walkthrough 2](https://github.com/teamVCH/sway/blob/master/walkthrough2.gif)
+![Walkthrough 2](../../img/sway/walkthrough2.gif)
 
 ### Wireframes
-![Wireframes (Draft)](https://github.com/teamVCH/sway/blob/master/wireframes/userflow.png)
+![Wireframes (Draft)](../../img/sway/userflow.png)
 
 _For more details, take a look at our [repository README](https://github.com/teamVCH/sway)._

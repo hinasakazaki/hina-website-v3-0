@@ -37,7 +37,7 @@ GL;HF!
 
 Did I mention the game is gorgeous!?
 
-![characterintro](../../static/img/slingingink.jpeg)
+![characterintro](../../img/slingingink.jpg)
 
 art (lines): Cheyenne Frykholm
 
@@ -47,6 +47,6 @@ programming (game logic): Drew Haymond
 
 programming (networking & misc): Hina Sakazaki
 
-![the team](../../static/img/slingingink.jpeg)
+![the team](../../img/slingingink.jpg)
 
 
