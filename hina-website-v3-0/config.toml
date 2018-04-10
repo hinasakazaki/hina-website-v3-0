@@ -1,7 +1,7 @@
 baseURL = "https://hinasakazaki.github.io/"
 languageCode = "en-us"
 title = "Hina Sakazaki"
-disqusShortname = "shortcode-here"
+disqusShortname = "hinasakazaki"
 paginate = 5
 
 [taxonomies]

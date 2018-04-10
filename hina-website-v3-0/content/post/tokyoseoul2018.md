@@ -164,7 +164,7 @@ One of the most favored protein choices here from a convenience store was imitat
 
 ### Day 7
 
-The next day, my Chris and I went to Myeong-dong after exploring HongDae, as he had only 4 days in Seoul.
+The next day, Chris and I went to Myeong-dong after exploring HongDae, as he had only 4 days in Seoul.
 
 We had lunch at [Kyoja Main](https://www.tripadvisor.com/Restaurant_Review-g294197-d1196214-Reviews-Myeongdong_Kyoja_Main-Seoul.html) and it was fantastic -- quick service, spicy noodles, warm rich noodle soup.
 
@@ -297,9 +297,9 @@ I parted ways with Judy & Eric and went to [Shangpree](http://shangpree.com/) to
 I killed some time in the Moomin Cafe first.
 ![moomin cafe](../../img/trip2018/moomincafe.JPG) 
 
-I do really enjoy some alone time in a cafe, makes me feel mature and introspective.
+I do really enjoy some alone time in a cafe, makes me feel *mature* and introspective.
 
-The Shangpree salon experience is as other reviewers say. Legs get put in some air pressure massage machine. They unclog your pores with stuff, drip a bunch of essences, and then a gold rubber mask goes on.
+The Shangpree salon experience is as other reviewers [say](http://twindly.com/blog/2017/06/i-had-a-facial-at-one-of-the-best-spas-in-korea-and-heres-what-i-learned/) -- luxurious. They put your legs in some air pressure massage machine. They unclog your pores with stuff, drip a bunch of essences, and then a gold rubber mask goes onto your face for a while. I fell asleep during the process.
 
 The people there were good at English and I had a great time. It was overall, a pretty good experience. I cannot tell the difference in my skin, but to be fair, I didn't really have much skin troubles to begin with.
 
