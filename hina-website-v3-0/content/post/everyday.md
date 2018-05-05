@@ -33,7 +33,7 @@ I watched a video of a proposal through a game, and it was a dungeon crawler. Th
 
 I sketched up stuff on bart, and did some concept art. The concept art is from May 2016.
 
-![sketch](../img/../everyday/notebook.JPG)
+![sketch](../../img/everyday/notebook.JPG)
 ![conceptart](../../img/everyday/conceptart.png)
 
 Back at the time, I had been playing a lot of [Fire Emblem: Fates](http://fireemblem.wikia.com/wiki/Fire_Emblem_Fates). 

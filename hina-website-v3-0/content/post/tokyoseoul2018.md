@@ -9,7 +9,7 @@ Here's my first travel post!
 
 I went on a two week trip with 2 of my buddies and my fiance, Chris to Tokyo and Seoul. 
 
-Our flight was through Korean Air - SFO -> INC -> NRT, then HND -> GMP, and finally, INC -> SFO.
+Our flight was through Korean Air - SFO -> ICN -> NRT, then HND -> GMP, and finally, ICN -> SFO.
 
 ## Table of Contents
 
@@ -241,7 +241,7 @@ For dinner, we went to Oksang Dalbit for some flaming chicken, poutine, and drin
 
 ![flamingchicken](../../img/trip2018/flamingchicken.JPG) 
 
-On our way home, we went to [Gentle Monster](http://www.gentlemonster.com/) -- one of the most memorable experiences in Seoul were from Gentle Monster - a glasses shop with art exhibitions. I loved these art exhibitions - one was a scent based exhibition where you can smell concepts such as GMO, Bitcoin, a foreign planet... it was just so neat.
+On our way home, we went to [Gentle Monster](http://www.gentlemonster.com/) -- one of the most memorable experiences in Seoul were from Gentle Monster - a chain glasses shop with art exhibitions. I loved these art exhibitions - one was a scent based exhibition where you can smell concepts such as GMO, Bitcoin, a foreign planet... it was just so neat.
 
 ### Day 9
 
@@ -250,6 +250,7 @@ We had lunch/breakfast at one of my favorite restaurants in Seoul - 그동네떡
 I loved the Ddeokbokki and Gimbap here. Photos don't do justice, but here they are:
 
 ![gimbap](../../img/trip2018/gimbap.JPG) 
+
 ![ddeokbokki](../../img/trip2018/ddeokbokki.JPG) 
 
 We then went to a dog cafe called [Sunnyne](http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=1060087).
@@ -257,6 +258,7 @@ We then went to a dog cafe called [Sunnyne](http://english.visitkorea.or.kr/enu/
 It was a lot of fun, and a lot of dogs. 
 
 ![tiny dogs](../../img/trip2018/tinydogs.JPG) 
+
 ![a huge dog](../../img/trip2018/hugedog.JPG) 
 
 Chris then flew back early to the US of A. 
@@ -266,6 +268,7 @@ We went to the Kakao Museum back in HongDae, since last time we came by, we were
 I got some interesting photos there, that's all I can say about the place :P
 
 ![kakao metal work](../../img/trip2018/kakao1.JPG) 
+
 ![kakao the last supper sketch](../../img/trip2018/kakao2.JPG) 
 
 That night, we went to a pork belly BBQ place called [Dojeok](https://www.mangoplate.com/en/restaurants/qzRAdfXffr).
@@ -295,6 +298,7 @@ Here were my results. I have mixed feelings about them.
 I parted ways with Judy & Eric and went to [Shangpree](http://shangpree.com/) to get the S-Energy treatment on my face.
 
 I killed some time in the Moomin Cafe first.
+
 ![moomin cafe](../../img/trip2018/moomincafe.JPG) 
 
 I do really enjoy some alone time in a cafe, makes me feel *mature* and introspective.
@@ -315,7 +319,7 @@ It was a Seafood specialty restaurant, and noone spoke English, but I did what I
 
 Beauty spree! I started off the day with getting my eyebrows & philtrum waxed.
 
-This was the first time getting my face waxed, but the attendant was super nice and pretty, and I just had a great time.
+This was the first time getting my face waxed, but the waxing specialist was super nice and pretty, and I just had a great time.
 
 She seemed to be very satisfied with the process (I have quite a bit of hair on my face), especially during the eyebrow waxing.
 
@@ -331,7 +335,7 @@ But this event started around 7PM, so we had time to kill.
 
 We went to the MBC Content World, which was a "theme park" for this TV station. 
 
-We learned a little bit about the history of the station, and participating in a bunch of augmented reality sort of fun activities. 
+We learned a little bit about the history of the station, and did a bunch of augmented reality and trick eye sort of activities. 
 
 We watched a holographic concert for Big Bang, and that was pretty fun.
 
