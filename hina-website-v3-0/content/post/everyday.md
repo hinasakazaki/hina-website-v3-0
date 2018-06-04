@@ -24,20 +24,20 @@ I didn't think of it as a game idea, but a cutesy little design.
 
 After we moved in together and I started my first full time job as Software Engineer at [Zynga](https://www.zynga.com/), I casually proposed marriage on a daily basis. The answer? "Someday..", "Definitely not now", "If I marry anyone it's you but I'm not ready yet," etc.
 
-Remind you of something? It's probably this: [Stable Marriage Problem.](https://en.wikipedia.org/wiki/Stable_marriage_problem) If it's anything that sticked from [CS170](http://cs170.org/), that one was it. I optimized by asking my first choice person every day until he was married to me or somebody else. Except, I decided to stop after a year, and decide to channel all of my energy towards a side project.
+Remind you of something? It's probably this: [Stable Marriage Problem.](https://en.wikipedia.org/wiki/Stable_marriage_problem) If it's anything that sticked from [CS170](https://cs170.org/), that one was it. I optimized by asking my first choice person every day until he was married to me or somebody else. Except, I decided to stop after a year, and decide to channel all of my energy towards a side project.
 
 Since I started work, I had a difficult time finding a project I felt passionate about. Game Jams are fun, but I wanted to work on something more long term. After serious discussion with my (hopefully) future spouse, it sounded like engagement was something that had to wait a while. Perfect.
 
 By April 2016, I think I had some ideas.
-I watched a video of a proposal through a game, and it was a dungeon crawler. The player (the developer's girlfriend) played as a hero and saved the princess. The hero then proposed to the princess. While this is cute, I thought there was opportunity for improvement, especially requiring the player to shift their perspective from hero to princess. My boyfriend is no princess, and I didn't want him to be trapped for the whole game (this idea is interesting too, but I'm no good with designing puzzles). Instead, I wanted him to be the healer who has to balance his own safety with the hero's effectiveness at dealing damage where they need to. Somehow the cup design made it back into my mind and I started sketching out ideas. I wanted the hero to be clearly a DPS, but I wanted enemies to be cats, and I don't want cats to be hurt, so I switched it around to be love bullets. (Thanks [No Game No Life](http://no-game-no-life.wikia.com/wiki/Episode_11)!)
+I watched a video of a proposal through a game, and it was a dungeon crawler. The player (the developer's girlfriend) played as a hero and saved the princess. The hero then proposed to the princess. While this is cute, I thought there was opportunity for improvement, especially requiring the player to shift their perspective from hero to princess. My boyfriend is no princess, and I didn't want him to be trapped for the whole game (this idea is interesting too, but I'm no good with designing puzzles). Instead, I wanted him to be the healer who has to balance his own safety with the hero's effectiveness at dealing damage where they need to. Somehow the cup design made it back into my mind and I started sketching out ideas. I wanted the hero to be clearly a DPS, but I wanted enemies to be cats, and I don't want cats to be hurt, so I switched it around to be love bullets. (Thanks [No Game No Life](https://no-game-no-life.wikia.com/wiki/Episode_11)!)
 
 I sketched up stuff on bart, and did some concept art. The concept art is from May 2016.
 
 ![sketch](../../img/everyday/notebook.JPG)
 ![conceptart](../../img/everyday/conceptart.png)
 
-Back at the time, I had been playing a lot of [Fire Emblem: Fates](http://fireemblem.wikia.com/wiki/Fire_Emblem_Fates). 
-I loved the combination of choices/dialogue/story and gameplay. The winter prior, the target player was playing a lot of [Electronic Super Joy](http://www.electronicsuperjoy.com/), a very fast paced and exciting sidescroller. I wanted to make something that combined the two.
+Back at the time, I had been playing a lot of [Fire Emblem: Fates](https://fireemblem.wikia.com/wiki/Fire_Emblem_Fates). 
+I loved the combination of choices/dialogue/story and gameplay. The winter prior, the target player was playing a lot of [Electronic Super Joy](https://www.electronicsuperjoy.com/), a very fast paced and exciting sidescroller. I wanted to make something that combined the two.
 
 In general, I like games that bind users to "time". If you play my [Labor Day the Game](https://hinerz.itch.io/labor-day-the-game-webplayer-build), each minute is 2 hours of a workday, so the game lasts 4 minutes. Similar idea for [Slinging Ink](https://hinerz.itch.io/slinging-ink). I wanted the game to be broken up to times of the day:
 
@@ -75,7 +75,7 @@ A few months later, I realized that it wasn't very "me", so created the current 
 
 Early 2017, I reached out to my composer friend [Eric Delgado](https://soundcloud.com/ericdelgadomusic). Eric is the first friend I made in [UC Berkeley Symphony Orchestra](https://orchestra.berkeley.edu/). We met to brainstorm the soundtrack in early January 2017. I was able to commission for him for the full soundtrack, which you can listen to [here](https://github.com/hinasakazaki/EveryDayTheGame/tree/master/BalloonGame/Assets/sound/Every%20Day%20The%20Game%20OST%20by%20Eric%20Delgado).
 
-I got my game design buddy [Calvin 'KirbiKaka' Lu](http://calvinkirbikaka.com/art/) to review my first draft of the script (dialogue) in late December 2017. 
+I got my game design buddy [Calvin 'KirbiKaka' Lu](https://calvinkirbikaka.com/art/) to review my first draft of the script (dialogue) in late December 2017. 
 
 My first deadline ("release date") was mid May of 2017. It was quickly revealed that Mid May was not going to be the release date, not because of development of this game, but due to the target player's life schedule. (Getting a PhD is hard.) I postponed the release date to mid September 2017 after this realization.
 

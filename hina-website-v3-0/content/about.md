@@ -3,7 +3,7 @@ I'm a software engineer at Google working on [YouTube](https://www.youtube.com/)
 
 Formerly, I worked as a Senior Software Engineer at Zynga where I work on shared client SDKs, a package management system for distributing SDKs across games, and do lots of recruiting/extracurriculars on the side.
 
-In my spare time, I lift weights, bake, play trombone, take photos of [succulents](https://www.instagram.com/sakazaki_succulents/), play [games](http://hinasakazaki.com/tags/reviews/), and make [games](http://hinasakazaki.com/tags/games/).
+In my spare time, I lift weights, bake, play trombone, take photos of [succulents](https://www.instagram.com/sakazaki_succulents/), play [games](https://hinasakazaki.com/tags/reviews/), and make [games](https://hinasakazaki.com/tags/games/).
 
 The opinions expressed on this website are my own and not those of my employers.
 
@@ -14,7 +14,7 @@ When I was 4, I had my first computer on which I played [Kid Pix](https://en.wik
 
 In middle school, I took a flash and web design class, which exposed me to the joy of creating things that move on its own on the screen.
 
-Meanwhile, I blogged, built websites, and played a lot of [Neopets](http://www.neopets.com/) with my friend, Claire, until our accounts got frozen from talking about _Grey's Anatomy_ in chat.
+Meanwhile, I blogged, built websites, and played a lot of [Neopets](https://www.neopets.com/) with my friend, Claire, until our accounts got frozen from talking about _Grey's Anatomy_ in chat.
 
 In high school, I applied to UC Berkeley with the intention of majoring in Economics only, until later that year, I played a game called Portal, which changed my life.
 
