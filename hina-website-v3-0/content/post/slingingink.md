@@ -7,7 +7,7 @@ tags = ["blog", "projects", "games"]
 
 Hello!
 
-I am currently finishing up a game called [Slinging Ink](hinerz.itch.io/slinging-ink).
+I am currently finishing up a game called [Slinging Ink](https://hinerz.itch.io/slinging-ink).
 
 You can play online multiplayer on the link.
 
@@ -47,6 +47,6 @@ programming (game logic): Drew Haymond
 
 programming (networking & misc): Hina Sakazaki
 
-![the team](../../img/slingingink.jpg)
+![the team](../../img/slinginginkteam.jpg)
 
 
