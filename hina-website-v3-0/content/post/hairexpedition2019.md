@@ -92,7 +92,7 @@ This is under indirect light:
 
 And a selfie taken on the way to work:
 
-![Selfie](../../img/hair-2019/1-bleach/selfie.JPG)
+![Selfie](../../img/hair-2019/1-bleach/selfie.jpg)
 
 Learnings:
 
@@ -142,23 +142,23 @@ This is the dye that I used.
 
 I did this part alone, using almost all of the tube. This part was pretty straightforward, I just soaked the hair with the dye and let it sit for 30 minutes.
 
-![Back](../../img/hair-2019/3-silver/back.JPG)
+![Back](../../img/hair-2019/3-silverdye/back.JPG)
 
-![Front](../../img/hair-2019/3-silver/front.JPG)
+![Front](../../img/hair-2019/3-silverdye/front.JPG)
 
-![Left](../../img/hair-2019/3-silver/left.JPG)
+![Left](../../img/hair-2019/3-silverdye/left.JPG)
 
-![Right](../../img/hair-20193-silver/right.JPG)
+![Right](../../img/hair-20193-silverdye/right.JPG)
 
 And in indirect lighting:
 
-![Back in indirect lighting](../../img/hair-20193-silver/indirect-back.JPG)
+![Back in indirect lighting](../../img/hair-20193-silverdye/indirect-back.JPG)
 
-![Roots](../../img/hair-20193-silver/roots.JPG)
+![Roots](../../img/hair-20193-silverdye/roots.JPG)
 
 You can tell the hair settled down a lot, and it looks much better than the day before.
 
-![Selfie](../../img/hair-20193-silver/selfie.jpg)
+![Selfie](../../img/hair-20193-silverdye/selfie.jpg)
 
 Learnings:
 
@@ -212,7 +212,7 @@ Comparing to the pictures from Bleach #3, the hair around my face does not clash
 
 ![Right](../../img/hair-2019/5-tone/right.JPG)
 
-![Selfie](../../img/hair-2019/5-tone/selfie.JPG)
+![Selfie](../../img/hair-2019/5-tone/selfie.jpg)
 
 Learnings:
 
