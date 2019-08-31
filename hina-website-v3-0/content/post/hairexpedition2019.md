@@ -50,13 +50,13 @@ I also watched basically all of the videos that come up on YouTube for "Bleachin
 
 I purchased *stuff*. More on this in the [How much did it actually cost?](#how-much-did-it-actually-cost) section.
 
-![Items Purchased](../../img/hair2019/equipment.jpg)
+![Items Purchased](../../img/hair-2019/equipment.JPG)
 
 I started off with this:
 
-![What it looked like before, with no special styling](../../img/hair2019/before-no-styling.JPG)
+![What it looked like before, with no special styling](../../img/hair-2019/before-no-styling.JPG)
 
-![What it looked like before, with special hair styling for my wedding](../../img/hair2019/wedding.jpg)
+![What it looked like before, with special hair styling for my wedding](../../img/hair-2019/wedding.jpg)
 
 I would consider this a Level 2 hair. We'll find that it has strong red undertones as we try to lift that off. 
 
@@ -76,23 +76,23 @@ Turns out I had missed lots of sections. I made more of the mixture, but my spou
 
 I ended up having the bottom parts sit with bleach for about an hour because the process took such a long time. After a quick shower, I did a bit of touch up with the remaining bleach mixture on the very obviously still-untouched front bits.
 
-![Back](../../img/hair2019/1-bleach/back.JPG)
+![Back](../../img/hair-2019/1-bleach/back.JPG)
 
-![Front](../../img/hair2019/1-bleach/front.JPG)
+![Front](../../img/hair-2019/1-bleach/front.JPG)
 
-![Left](../../img/hair2019/1-bleach/left.JPG)
+![Left](../../img/hair-2019/1-bleach/left.JPG)
 
-![Right](../../img/hair2019/1-bleach/right.JPG)
+![Right](../../img/hair-2019/1-bleach/right.JPG)
 
-![Back](../../img/hair2019/1-bleach/back.JPG)
+![Back](../../img/hair-2019/1-bleach/back.JPG)
 
 This is under indirect light:
 
-![Back Under Indirect Light](../../img/hair2019/1-bleach/back-indirect-light.JPG)
+![Back Under Indirect Light](../../img/hair-2019/1-bleach/back-indirect-light.JPG)
 
 And a selfie taken on the way to work:
 
-![Selfie](../../img/hair2019/1-bleach/selfie.JPG)
+![Selfie](../../img/hair-2019/1-bleach/selfie.JPG)
 
 Learnings:
 
@@ -115,17 +115,17 @@ This time, my spouse did all the work. He covered the dark parts remaining from 
 
 The result is *orange*. It does not look good with my skin. I kept this for one day, but I knew I didn't want to keep it for more than a day.
 
-![Back](../../img/hair2019/2-bleach/back.JPG)
+![Back](../../img/hair-2019/2-bleach/back.JPG)
 
-![Front](../../img/hair2019/2-bleach/front.JPG)
+![Front](../../img/hair-2019/2-bleach/front.JPG)
 
-![Left](../../img/hair2019/2-bleach/left.JPG)
+![Left](../../img/hair-2019/2-bleach/left.JPG)
 
-![Right](../../img/hair2019/2-bleach/right.JPG)
+![Right](../../img/hair-2019/2-bleach/right.JPG)
 
-![Back](../../img/hair2019/2-bleach/roots.JPG)
+![Back](../../img/hair-2019/2-bleach/roots.JPG)
 
-![Back](../../img/hair2019/2-bleach/selfie.JPG)
+![Back](../../img/hair-2019/2-bleach/selfie.JPG)
 
 Learnings:
 
@@ -138,27 +138,27 @@ August 4, 2019
 First appearance of **DYE**!! Finally, something other than bleaching!
 
 This is the dye that I used.
-![Dye](../../img/hair2019/3-silver/starbright-silver-dye.jpg)
+![Dye](../../img/hair-2019/3-silver/starbright-silver-dye.jpg)
 
 I did this part alone, using almost all of the tube. This part was pretty straightforward, I just soaked the hair with the dye and let it sit for 30 minutes.
 
-![Back](../../img/hair2019/3-silver/back.JPG)
+![Back](../../img/hair-2019/3-silver/back.JPG)
 
-![Front](../../img/hair2019/3-silver/front.JPG)
+![Front](../../img/hair-2019/3-silver/front.JPG)
 
-![Left](../../img/hair2019/3-silver/left.JPG)
+![Left](../../img/hair-2019/3-silver/left.JPG)
 
-![Right](../../img/hair20193-silver/right.JPG)
+![Right](../../img/hair-20193-silver/right.JPG)
 
 And in indirect lighting:
 
-![Back in indirect lighting](../../img/hair20193-silver/indirect-back.JPG)
+![Back in indirect lighting](../../img/hair-20193-silver/indirect-back.JPG)
 
-![Roots](../../img/hair20193-silver/roots.JPG)
+![Roots](../../img/hair-20193-silver/roots.JPG)
 
 You can tell the hair settled down a lot, and it looks much better than the day before.
 
-![Selfie](../../img/hair20193-silver/selfie.jpg)
+![Selfie](../../img/hair-20193-silver/selfie.jpg)
 
 Learnings:
 
@@ -177,11 +177,11 @@ Though in the last round of bleach, I learned that it's better when my spouse do
 
 I knew from the beginning that I did not want to do more than 3 bleach sessions, so I was going to stop here. It did not lighten to a platinum as I had wished, but I had my hopes up for the Wella T18 to remove the yellow/orange.
 
-![Back](../../img/hair2019/4-bleach/right.JPG)
+![Back](../../img/hair-2019/4-bleach/right.JPG)
 
-![Front](../../img/hair2019/4-bleach/front.JPG)
+![Front](../../img/hair-2019/4-bleach/front.JPG)
 
-![Left](../../img/hair2019/4-bleach/left.JPG)
+![Left](../../img/hair-2019/4-bleach/left.JPG)
 
 Learnings:
 
@@ -204,15 +204,15 @@ I did this step all by myself too. I had damp hair (maybe too damp?) and added t
 
 Comparing to the pictures from Bleach #3, the hair around my face does not clash with my skin as much. The photos are also just better because I'm wearing makeup. 
 
-![Back](../../img/hair2019/5-tone/right.JPG)
+![Back](../../img/hair-2019/5-tone/right.JPG)
 
-![Front](../../img/hair2019/5-tone/front.JPG)
+![Front](../../img/hair-2019/5-tone/front.JPG)
 
-![Left](../../img/hair2019/5-tone/left.JPG)
+![Left](../../img/hair-2019/5-tone/left.JPG)
 
-![Right](../../img/hair2019/5-tone/right.JPG)
+![Right](../../img/hair-2019/5-tone/right.JPG)
 
-![Selfie](../../img/hair2019/5-tone/selfie.JPG)
+![Selfie](../../img/hair-2019/5-tone/selfie.JPG)
 
 Learnings:
 
@@ -227,21 +227,21 @@ August 18, 2019
 
 Note that I purchased 3 dyes at the beginning of this journey from Amazon: Silver, Lavender, and Rose Gold. As you can tell, the Rose Gold was kind of a backup if none of this worked. I really wanted silver-lavender hair. By the time, I had only a bit of the silver dye left, so I decided to mix those two, and put it in my hair. I did this step very similarly to my last silver dye session.
 
-![Selfie while processing](../../img/hair2019/6-lavender/selfie-processing.jpg)
+![Selfie while processing](../../img/hair-2019/6-lavender/selfie-processing.jpg)
 
 It was late in the day and I really hoped this would work. It was a Sunday night with very little options. This is leading to the worst outcome of this journey...
 
-![Photo in the mirror](../../img/hair2019/6-lavender/mirror.jpg)
+![Photo in the mirror](../../img/hair-2019/6-lavender/mirror.jpg)
 
-![Zoomed](../../img/hair2019/6-lavender/root-zoom.jpg)
+![Zoomed](../../img/hair-2019/6-lavender/root-zoom.jpg)
 
-![Back](../../img/hair2019/6-lavender/front.JPG)
+![Back](../../img/hair-2019/6-lavender/front.JPG)
 
-![Left](../../img/hair2019/6-lavender/back.JPG)
+![Left](../../img/hair-2019/6-lavender/back.JPG)
 
 The next morning, I put my favorite cap on and headed to work, with the intent to fix it that night. 
 
-![Zoomed](../../img/hair2019/6-lavender/hat-day.jpg)
+![Zoomed](../../img/hair-2019/6-lavender/hat-day.jpg)
 
 Learnings:
 
@@ -264,34 +264,34 @@ Of course, they are out of the purple dye. I slightly panic, and consider my opt
 
 So, I picked up the "Rad Raspberry" color.
 
-![Products](../../img/hair2019/7-rosegoldraspberry/products.jpg)
+![Products](../../img/hair-2019/7-rosegoldraspberry/products.jpg)
 
-![In the Bowl](../../img/hair2019/7-rosegoldraspberry/bowl.jpg)
+![In the Bowl](../../img/hair-2019/7-rosegoldraspberry/bowl.jpg)
 
-![Me Dying my Hair](../../img/hair2019/7-rosegoldraspberry/dying-hair.jpg)
+![Me Dying my Hair](../../img/hair-2019/7-rosegoldraspberry/dying-hair.jpg)
 
 I tried to do a gradient of more raspberry towards the front and a mix for the rest to draw attention away from the horizontal unevenness.
 Freshly dyed, the hair was very bright. I wasn't a huge fan, but I liked it more than the patchy lavender.
 
-![Freshly Dyed Back of Hair](../../img/hair2019/7-rosegoldraspberry/fresh-back.jpg)
+![Freshly Dyed Back of Hair](../../img/hair-2019/7-rosegoldraspberry/fresh-back.jpg)
 
-![Selfie on Day 1](../../img/hair2019/7-rosegoldraspberry/selfie.jpg)
+![Selfie on Day 1](../../img/hair-2019/7-rosegoldraspberry/selfie.jpg)
 
 After 1 week and 2 shampoos, it was fading nicely:
 
-![Bun](../../img/hair2019/7-rosegoldraspberry/bun.jpg)
+![Bun](../../img/hair-2019/7-rosegoldraspberry/bun.jpg)
 
 And this it after 2 weeks and 4 shampoos:
 
-![Back](../../img/hair2019/7-rosegoldraspberry/right.JPG)
+![Back](../../img/hair-2019/7-rosegoldraspberry/right.JPG)
 
-![Front](../../img/hair2019/7-rosegoldraspberry/front.JPG)
+![Front](../../img/hair-2019/7-rosegoldraspberry/front.JPG)
 
-![Left](../../img/hair2019/7-rosegoldraspberry/left.JPG)
+![Left](../../img/hair-2019/7-rosegoldraspberry/left.JPG)
 
-![Right](../../img/hair2019/7-rosegoldraspberry/right.JPG)
+![Right](../../img/hair-2019/7-rosegoldraspberry/right.JPG)
 
-![In indoor lighting](../../img/hair2019/7-rosegoldraspberry/indoor.JPG)
+![In indoor lighting](../../img/hair-2019/7-rosegoldraspberry/indoor.JPG)
 
 Overall? I love it now and it's the hair I'll have for at least another couple of months.
 
