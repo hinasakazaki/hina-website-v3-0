@@ -78,8 +78,6 @@ I ended up having the bottom parts sit with bleach for about an hour because the
 
 ![Back](../../img/hair-2019/1-bleach/back.JPG)
 
-![Front](../../img/hair-2019/1-bleach/front.JPG)
-
 ![Left](../../img/hair-2019/1-bleach/left.JPG)
 
 ![Right](../../img/hair-2019/1-bleach/right.JPG)
@@ -89,10 +87,6 @@ I ended up having the bottom parts sit with bleach for about an hour because the
 This is under indirect light:
 
 ![Back Under Indirect Light](../../img/hair-2019/1-bleach/back-indirect-light.JPG)
-
-And a selfie taken on the way to work:
-
-![Selfie](../../img/hair-2019/1-bleach/selfie.jpg)
 
 Learnings:
 
@@ -116,8 +110,6 @@ This time, my spouse did all the work. He covered the dark parts remaining from 
 The result is *orange*. It does not look good with my skin. I kept this for one day, but I knew I didn't want to keep it for more than a day.
 
 ![Back](../../img/hair-2019/2-bleach/back.JPG)
-
-![Front](../../img/hair-2019/2-bleach/front.JPG)
 
 ![Left](../../img/hair-2019/2-bleach/left.JPG)
 
@@ -143,8 +135,6 @@ This is the dye that I used.
 I did this part alone, using almost all of the tube. This part was pretty straightforward, I just soaked the hair with the dye and let it sit for 30 minutes.
 
 ![Back](../../img/hair-2019/3-silverdye/back.JPG)
-
-![Front](../../img/hair-2019/3-silverdye/front.JPG)
 
 ![Left](../../img/hair-2019/3-silverdye/left.JPG)
 
@@ -179,8 +169,6 @@ I knew from the beginning that I did not want to do more than 3 bleach sessions,
 
 ![Back](../../img/hair-2019/4-bleach/right.JPG)
 
-![Front](../../img/hair-2019/4-bleach/front.JPG)
-
 ![Left](../../img/hair-2019/4-bleach/left.JPG)
 
 Learnings:
@@ -204,7 +192,7 @@ I did this step all by myself too. I had damp hair (maybe too damp?) and added t
 
 Comparing to the pictures from Bleach #3, the hair around my face does not clash with my skin as much. The photos are also just better because I'm wearing makeup. 
 
-![Back](../../img/hair-2019/5-tone/right.JPG)
+![Back](../../img/hair-2019/5-tone/back.JPG)
 
 ![Front](../../img/hair-2019/5-tone/front.JPG)
 
@@ -235,9 +223,7 @@ It was late in the day and I really hoped this would work. It was a Sunday night
 
 ![Zoomed](../../img/hair-2019/6-lavender/root-zoom.jpg)
 
-![Back](../../img/hair-2019/6-lavender/front.JPG)
-
-![Left](../../img/hair-2019/6-lavender/back.JPG)
+![Left](../../img/hair-2019/6-lavender/back.jpg)
 
 The next morning, I put my favorite cap on and headed to work, with the intent to fix it that night. 
 
@@ -275,8 +261,6 @@ Freshly dyed, the hair was very bright. I wasn't a huge fan, but I liked it more
 
 ![Freshly Dyed Back of Hair](../../img/hair-2019/7-rosegoldraspberry/fresh-back.jpg)
 
-![Selfie on Day 1](../../img/hair-2019/7-rosegoldraspberry/selfie.jpg)
-
 After 1 week and 2 shampoos, it was fading nicely:
 
 ![Bun](../../img/hair-2019/7-rosegoldraspberry/bun.jpg)
@@ -284,8 +268,6 @@ After 1 week and 2 shampoos, it was fading nicely:
 And this it after 2 weeks and 4 shampoos:
 
 ![Back](../../img/hair-2019/7-rosegoldraspberry/right.JPG)
-
-![Front](../../img/hair-2019/7-rosegoldraspberry/front.JPG)
 
 ![Left](../../img/hair-2019/7-rosegoldraspberry/left.JPG)
 
