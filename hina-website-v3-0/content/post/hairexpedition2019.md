@@ -148,17 +148,17 @@ I did this part alone, using almost all of the tube. This part was pretty straig
 
 ![Left](../../img/hair-2019/3-silverdye/left.JPG)
 
-![Right](../../img/hair-20193-silverdye/right.JPG)
+![Right](../../img/hair-2019/3-silverdye/right.JPG)
 
 And in indirect lighting:
 
-![Back in indirect lighting](../../img/hair-20193-silverdye/indirect-back.JPG)
+![Back in indirect lighting](../../img/hair-2019/3-silverdye/indirect-back.JPG)
 
-![Roots](../../img/hair-20193-silverdye/roots.JPG)
+![Roots](../../img/hair-2019/3-silverdye/roots.JPG)
 
 You can tell the hair settled down a lot, and it looks much better than the day before.
 
-![Selfie](../../img/hair-20193-silverdye/selfie.jpg)
+![Selfie](../../img/hair-2019/3-silverdye/selfie.jpg)
 
 Learnings:
 
@@ -268,7 +268,7 @@ So, I picked up the "Rad Raspberry" color.
 
 ![In the Bowl](../../img/hair-2019/7-rosegoldraspberry/bowl.jpg)
 
-![Me Dying my Hair](../../img/hair-2019/7-rosegoldraspberry/dying-hair.jpg)
+![Me Dying my Hair](../../img/hair-2019/7-rosegoldraspberry/dying-hair.JPG)
 
 I tried to do a gradient of more raspberry towards the front and a mix for the rest to draw attention away from the horizontal unevenness.
 Freshly dyed, the hair was very bright. I wasn't a huge fan, but I liked it more than the patchy lavender.
