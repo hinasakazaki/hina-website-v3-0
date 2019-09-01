@@ -13,8 +13,18 @@ Salon results were beautiful, but I wanted to try the bleach & color myself this
 
 Disclaimer, I'm obviously not a professional, so try things at your own risk, as I did. Use gloves!!
 
-## Table of Contents
+** TL;DR**
 
+- My hair didn't damage much after 3 rounds of bleach with 2 week spaces between with Olaplex.
+- Hair comes out more evenly if someone else does it. Don't forget to use gloves!
+- Wella T18 can subtly change the tone of a Level 7 hair but not that much.
+- Don't try pastel tones if you're not at least Level 9 all over.
+- Supplies cost $227 altogether, but there is a lot left.
+- Watch lots of YouTube videos, have fun, chill out, everything fades someday.
+
+![TLDR(../../img/hair-2019/tldr.png)
+
+## Table of Contents
 
 [Research](#research)
 
@@ -184,7 +194,7 @@ Supplies Used:
 - 1 bottle of the Wella T18 Toner
 - 2 times that amount for **20** volume developer
 
-In hindsight, I should have not purchased 4 bottles of the Wella T18 toner, and the Wella T18 toner does not do much to the yellow light orange hair that I have after my 3 bleach sessions. It's hard to determine what level my hair is before the toner - sort of a level 8 for the roots and level 6 for the rest.
+In hindsight, I should have not purchased 4 bottles of the Wella T18 toner, and the Wella T18 toner does not do much to the yellow light orange hair that I have after my 3 bleach sessions. It's hard to determine what level my hair is before the toner - sort of a level 9 for the roots and 7 for the rest.
 
 Note that I'm using the 20 volume developer here, not 30 volume, because the toner is to put color in, not to lift the existing hair color.
 
@@ -225,7 +235,7 @@ The next morning, I put my favorite cap on and headed to work, with the intent t
 
 Learnings:
 
-- Don't expect pastel colors to show up on Level 6 hair color.
+- Don't expect pastel colors to show up on Level 7 hair color.
 - If your base hair is patchy, colors will show up patchily as well.
 
 ## Raspberry & Rose Gold Dye
