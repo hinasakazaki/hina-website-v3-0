@@ -6641,6 +6641,9 @@ a:active {
   border-top: 5px solid #a7ad96;
   overflow-y: auto;
 }
+article img {
+  max-width: 100%;
+}
 .vertical-align {
   position: relative;
   top: 50%;
