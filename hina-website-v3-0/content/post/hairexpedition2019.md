@@ -28,6 +28,8 @@ Disclaimer, I'm obviously not a professional, so try things at your own risk, as
 
 [Research](#research)
 
+[General Technique](#general-techniqueue)
+
 [July 22](#bleach-round-one) - Bleach Round #1
 
 [August 3](#bleach-round-two) - Bleach Round #2
@@ -53,8 +55,10 @@ Here are some that stood out to me:
 - [ブリーチ1～6回でどのくらい明るくなる？回数ごとの明るさ比較
 ](https://matakuhair.net/bleach-kaisuu/): This Japanese article was useful for me to expect how light my hair should get after each round of bleach.
 - [Mrs. Gorjesss: "DIY BLACK TO BLONDE AT HOME || No Damage"](https://www.youtube.com/watch?v=0yFiZnxaLss), [Jenna alexis: "Bleaching My Hair with Olaplex (black/brown to blonde)"](https://www.youtube.com/watch?v=HH4qpAsxpBQ): These two videos on YouTube were great intros to bleaching at home with Olaplex.
+- [somegirljess: HOW TO BLEACH ROOTS + TONE with WELLA T10 (AT HOME)](https://www.youtube.com/watch?v=k4iO9pIxVHc&t=3s) This video taught me how to keep track of progress of hair while putting product in it.
 - [Lab Muffin: HOW DOES OLAPLEX HAIR TREATMENT WORK?](https://labmuffin.com/how-does-olaplex-hair-treatment-work/): Explains how peroxide caps S-H with a sulfate group, which keeps the disulfide bonds broken, but  bis-aminopropyl diglycol dimaleate from Olaplex extends the sulfurs to make the hair stronger.
 - [What is the Difference Between Ammonia and Ammonia-free Hair color?](https://www.shagginsalon.com/blog/2014/5/22/what-is-the-difference-between-ammonia-and-ammonia-free-hair-color): I read this when considering the Wella T18 toner as an option for getting the yellow/orange toned out before color, and explains how ammonia allows hair follicles to swell and absorb dye better.
+- [Naturally Curly: What Exactly Does Bleach Do to Your Hair?](https://www.naturallycurly.com/curlreading/home/what-exactly-does-bleach-do-to-your-hair) This explains what bleach does to your hair and melanin molecules.
 
 I also watched basically all of the videos that come up on YouTube for "Bleaching hair at home", all of them were informative and some of the folks have really great techniqueue that I learned from (mostly segmenting hair, covering it with bleach layer by layer, and keeping track of which part has been covered and which has has not.)
 
@@ -69,6 +73,33 @@ I started off with this:
 ![What it looked like before, with special hair styling for my wedding](../../img/hair-2019/wedding.jpg)
 
 I would consider this a Level 2 hair. We'll find that it has strong red undertones as we try to lift that off. 
+
+## General Technique
+
+### Time
+
+I give myself 3 hour blocks of time for each stage so that I have time to prep, do thing (put the bleach/dye over), wash once, towel-dry, put in Olaplex No. 2, wait 20 minutes, wash out the Olaplex, condition my hair, dry, and possibly react.
+
+Whenever you use a developer, your hair is being damaged by the hydrogen peroxide (the volume corresponds to the amount of hydrogen peroxide) opening the hair shaft to react with the melanin, breaking their double bonds eliminating their ability to absorb light. Doing this repeatedly without giving much time to for the hair to recover its natural moisture and oils will make the hair weaker and could cause breakage. It's also terrible for your scalp. This is why I make sure to space out my use of developer; people recommend 2 weeks, so that's what I did.
+
+### Prep
+First thing I do before any session is to put on a shirt that I don't care about and put vaseline all over exposed skin. Bleach formula can sometimes splatter on arms and legs, and I've found that if left there for a while, it ends up making small white spots (though usually it recovers quickly, I can't imagine it being healthy.) So, I rub a thin layer of vaseline all over my arms, and a thicker layer on my ears, neck, and face. 
+
+If you have long hair, and you don't tie up your hair while bleaching, the bleach formula can seep through your shirt and cause itchiness in your back. This happened to me. Since then, I've been careful about wearing a little plastic bag cape or tying my hair up through the process.
+
+Then, I put my gloves on, and start making the formula. I think having a consistent formula is one of the most important things, and it's really important to not rush here. Small batches to be easier to mix. I mix with the brush, but I think a whisk would do a better job. When making bleach mix with Olaplex, make sure your bleach & developer is well mixed before mixing in Olaplex.
+
+### Blocking and Keeping Track of Progress
+
+I am very bad at this part, but I've learned some tricks.
+
+I first section my hair into four sections before mixing the formula - left top, right top, left bottom, right bottom. Then, I take thin layers of hair and apply the formula on both sides, and massage it in the hair. I just kind of whip the hair on one side so that it doesn't get mixed up with the rest of the hair in the section. It's definitely made more challenging by having lots of hair.
+
+This is one of those things that's better seen than explained, so here's a video where I learned this technique: [somegirljess: HOW TO BLEACH ROOTS + TONE with WELLA T10 (AT HOME)](https://www.youtube.com/watch?v=k4iO9pIxVHc&t=3s).
+
+### Processing
+
+I collect a bunch of plastic bags from takeout, so I usually use those to tightly wrap around my hair (have the print face outwards!), tie off the extra bit with a rubber band, and let it sit. Like I said earlier, developer is damaging to hair and skin, so any formula with developer in it, I tried to keep it on for less than an hour. I ended up playing a game of DotA2 while doing my pink dye processing, so that ended up staying for longer than instructed in the packaging (20 mins).
 
 ## Bleach Round One
 July 22, 2019
@@ -140,7 +171,7 @@ August 4, 2019
 First appearance of **DYE**!! Finally, something other than bleaching!
 
 This is the dye that I used.
-![Dye](../../img/hair-2019/3-silver/starbright-silver-dye.jpg)
+![Dye](../../img/hair-2019/3-silverdye/starbright-silver-dye.jpg)
 
 I did this part alone, using almost all of the tube. This part was pretty straightforward, I just soaked the hair with the dye and let it sit for 30 minutes.
 
@@ -248,9 +279,9 @@ My plan was to buy two bottles of the "Purple Passion" Sparks Hair Dye. Last tim
 Of course, they are out of the purple dye. I slightly panic, and consider my options while under a time crunch.
 
 - I have one bottle of rose gold at home.
-- I could buy two bottles of rose gold, but what if it's not dark enough and it only shows up at the roots again?
+- I could buy an additional bottle of rose gold, but what if it's not dark enough and it only shows up at the roots again?
 - I don't want to wear a hat tomorrow too; I want to wear my noise cancelling headphones at work. (Note: No one actually cares what I look like at work. I'm just vain.)
-- I will pick up something that blends nicely with Rose Gold, that will give me enough dye and make sure it's not patchy.
+- I will pick up something dark that blends nicely with Rose Gold, that will give me enough dye and ensure that the result is not patchy.
 
 So, I picked up the "Rad Raspberry" color.
 
@@ -271,7 +302,7 @@ After 1 week and 2 shampoos, it was fading nicely:
 
 And this it after 2 weeks and 4 shampoos:
 
-![Back](../../img/hair-2019/7-rosegoldraspberry/right.JPG)
+![Back](../../img/hair-2019/7-rosegoldraspberry/back.JPG)
 
 ![Left](../../img/hair-2019/7-rosegoldraspberry/left.JPG)
 
@@ -327,6 +358,8 @@ This is a rough estimate of what I have left:
 I'm so happy that I did this, and I'm pretty positive that I'll keep doing this. 
 I've built up a lot of knowledge about hair and chemicals, and having bright hair is pretty addictive.
 
-As this pink color fades, I'm hoping to transition to a purple, and maybe try some shadow root techniques for the roots to be more natural.
+As this pink color fades, I'm hoping to transition to a purple, and maybe try some shadow root techniques for the roots to look more natural.
 
-I have not given up my pastel dreams, and I think that I will try it out when I have shorter hair. I'm not ready to cut off my long hair, but when that time comes, the Wella T18 toner might come handy.
+I have not given up my pastel dreams, and I think that I will try it out when I have shorter hair. Bleaching hair evenly is hard enough, it's made even harder when you have long hair.
+
+I'm not ready to cut off my long hair, but when that time comes, the Wella T18 toner might come handy.
