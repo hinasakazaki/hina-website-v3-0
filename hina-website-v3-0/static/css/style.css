@@ -4045,7 +4045,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-collapse {
-  overflow-x: visible;
+  overflow-x: scroll;
   padding-right: 15px;
   padding-left: 15px;
   border-top: 1px solid transparent;
@@ -6566,7 +6566,7 @@ body,
 }
 html,
 body {
-  overflow-y: hidden;
+  overflow-y: scroll;
 }
 body {
   font-weight: 300;
