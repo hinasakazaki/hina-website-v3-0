@@ -200,8 +200,6 @@ Comparing to the pictures from Bleach #3, the hair around my face does not clash
 
 ![Right](../../img/hair-2019/5-tone/right.JPG)
 
-![Selfie](../../img/hair-2019/5-tone/selfie.jpg)
-
 Learnings:
 
 - Wella T18 does not do much to Level 6 hair color, but has a subtle effect of turning orange yellow to more of a strawberry blonde.
@@ -215,8 +213,6 @@ August 18, 2019
 
 Note that I purchased 3 dyes at the beginning of this journey from Amazon: Silver, Lavender, and Rose Gold. As you can tell, the Rose Gold was kind of a backup if none of this worked. I really wanted silver-lavender hair. By the time, I had only a bit of the silver dye left, so I decided to mix those two, and put it in my hair. I did this step very similarly to my last silver dye session.
 
-![Selfie while processing](../../img/hair-2019/6-lavender/selfie-processing.jpg)
-
 It was late in the day and I really hoped this would work. It was a Sunday night with very little options. This is leading to the worst outcome of this journey...
 
 ![Photo in the mirror](../../img/hair-2019/6-lavender/mirror.jpg)
@@ -226,8 +222,6 @@ It was late in the day and I really hoped this would work. It was a Sunday night
 ![Left](../../img/hair-2019/6-lavender/back.jpg)
 
 The next morning, I put my favorite cap on and headed to work, with the intent to fix it that night. 
-
-![Zoomed](../../img/hair-2019/6-lavender/hat-day.jpg)
 
 Learnings:
 
