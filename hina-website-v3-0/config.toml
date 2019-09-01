@@ -34,8 +34,8 @@ paginate = 5
 	faicon = "linkedin"
 	url = "https://linkedin.com/in/hinasakazaki/"
 	[[params.socialbuttons]]
-	faicon = "google-plus"
-	url = "https://plus.google.com/+HinaSakazaki"
+	faicon = "instagram"
+	url = "https://www.instagram.com/sakazaki_succulents/"
 
 	[[params.navlinks]]
 	name = "About"

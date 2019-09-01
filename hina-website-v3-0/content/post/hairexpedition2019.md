@@ -1,6 +1,6 @@
 +++
 date = "2019-08-31T13:25:45-04:00"
-draft = false
+draft = true
 title = "Summer 2019 Hair Expedition"
 tags = ["blog", "projects"]
 +++
@@ -28,7 +28,7 @@ Disclaimer, I'm obviously not a professional, so try things at your own risk, as
 
 [Research](#research)
 
-[General Technique](#general-techniqueue)
+[General Technique](#general-technique)
 
 [July 22](#bleach-round-one) - Bleach Round #1
 
@@ -58,9 +58,10 @@ Here are some that stood out to me:
 - [somegirljess: HOW TO BLEACH ROOTS + TONE with WELLA T10 (AT HOME)](https://www.youtube.com/watch?v=k4iO9pIxVHc&t=3s) This video taught me how to keep track of progress of hair while putting product in it.
 - [Lab Muffin: HOW DOES OLAPLEX HAIR TREATMENT WORK?](https://labmuffin.com/how-does-olaplex-hair-treatment-work/): Explains how peroxide caps S-H with a sulfate group, which keeps the disulfide bonds broken, but  bis-aminopropyl diglycol dimaleate from Olaplex extends the sulfurs to make the hair stronger.
 - [What is the Difference Between Ammonia and Ammonia-free Hair color?](https://www.shagginsalon.com/blog/2014/5/22/what-is-the-difference-between-ammonia-and-ammonia-free-hair-color): I read this when considering the Wella T18 toner as an option for getting the yellow/orange toned out before color, and explains how ammonia allows hair follicles to swell and absorb dye better.
-- [Naturally Curly: What Exactly Does Bleach Do to Your Hair?](https://www.naturallycurly.com/curlreading/home/what-exactly-does-bleach-do-to-your-hair) This explains what bleach does to your hair and melanin molecules.
+- [The Art of Colour – Colour Theory for Hairdressing
+](http://hair-and-makeup-artist.com/colour-theory-hairdressing/),[Naturally Curly: What Exactly Does Bleach Do to Your Hair?](https://www.naturallycurly.com/curlreading/home/what-exactly-does-bleach-do-to-your-hair) These articles explain what bleach does to your hair and melanin molecules.
 
-I also watched basically all of the videos that come up on YouTube for "Bleaching hair at home", all of them were informative and some of the folks have really great techniqueue that I learned from (mostly segmenting hair, covering it with bleach layer by layer, and keeping track of which part has been covered and which has has not.)
+I also watched basically all of the videos that come up on YouTube for "Bleaching hair at home", all of them were informative and some of the folks have really great technique that I learned from (mostly segmenting hair, covering it with bleach layer by layer, and keeping track of which part has been covered and which has has not.)
 
 I purchased *stuff*. More on this in the [How much did it actually cost?](#how-much-did-it-actually-cost) section.
 
@@ -78,16 +79,16 @@ I would consider this a Level 2 hair. We'll find that it has strong red underton
 
 ### Time
 
-I give myself 3 hour blocks of time for each stage so that I have time to prep, do thing (put the bleach/dye over), wash once, towel-dry, put in Olaplex No. 2, wait 20 minutes, wash out the Olaplex, condition my hair, dry, and possibly react.
+I give myself 3 hour blocks of time for each stage so that I have time to prep, do the thing (put the bleach/dye over), wash once, towel-dry, put in Olaplex No. 2, wait 20 minutes, wash out the Olaplex, condition my hair, dry, and possibly react.
 
-Whenever you use a developer, your hair is being damaged by the hydrogen peroxide (the volume corresponds to the amount of hydrogen peroxide) opening the hair shaft to react with the melanin, breaking their double bonds eliminating their ability to absorb light. Doing this repeatedly without giving much time to for the hair to recover its natural moisture and oils will make the hair weaker and could cause breakage. It's also terrible for your scalp. This is why I make sure to space out my use of developer; people recommend 2 weeks, so that's what I did.
+Whenever you use a developer, your hair is being damaged by the hydrogen peroxide (the volume corresponds to the amount of hydrogen peroxide) opening the hair shaft to react with the melanin, breaking their double bonds eliminating their ability to absorb light. Doing this repeatedly without giving much time to for the hair to recover its natural moisture and oils will make the hair weaker and could cause breakage. It's also terrible for your scalp - that's why you feel an itching burning sensation. This is why I make sure to space out my use of developer mixtures; people recommend 2 weeks, so that's what I did.
 
 ### Prep
 First thing I do before any session is to put on a shirt that I don't care about and put vaseline all over exposed skin. Bleach formula can sometimes splatter on arms and legs, and I've found that if left there for a while, it ends up making small white spots (though usually it recovers quickly, I can't imagine it being healthy.) So, I rub a thin layer of vaseline all over my arms, and a thicker layer on my ears, neck, and face. 
 
 If you have long hair, and you don't tie up your hair while bleaching, the bleach formula can seep through your shirt and cause itchiness in your back. This happened to me. Since then, I've been careful about wearing a little plastic bag cape or tying my hair up through the process.
 
-Then, I put my gloves on, and start making the formula. I think having a consistent formula is one of the most important things, and it's really important to not rush here. Small batches to be easier to mix. I mix with the brush, but I think a whisk would do a better job. When making bleach mix with Olaplex, make sure your bleach & developer is well mixed before mixing in Olaplex.
+Then, I put my gloves on, and start making the formula. I think having a smooth formula is one of the most important things, and it's really important to not rush here. Small batches to be easier to mix. I mix with the brush, but I think a whisk would do a better job. When making bleach mix with Olaplex, make sure your bleach & developer is well mixed before mixing in Olaplex.
 
 ### Blocking and Keeping Track of Progress
 
@@ -95,11 +96,11 @@ I am very bad at this part, but I've learned some tricks.
 
 I first section my hair into four sections before mixing the formula - left top, right top, left bottom, right bottom. Then, I take thin layers of hair and apply the formula on both sides, and massage it in the hair. I just kind of whip the hair on one side so that it doesn't get mixed up with the rest of the hair in the section. It's definitely made more challenging by having lots of hair.
 
-This is one of those things that's better seen than explained, so here's a video where I learned this technique: [somegirljess: HOW TO BLEACH ROOTS + TONE with WELLA T10 (AT HOME)](https://www.youtube.com/watch?v=k4iO9pIxVHc&t=3s).
+This is one of those things that's better seen than explained, so here's a video where I learned this technique: [HOW TO BLEACH ROOTS + TONE with WELLA T10 (AT HOME)](https://www.youtube.com/watch?v=k4iO9pIxVHc&t=3s).
 
 ### Processing
 
-I collect a bunch of plastic bags from takeout, so I usually use those to tightly wrap around my hair (have the print face outwards!), tie off the extra bit with a rubber band, and let it sit. Like I said earlier, developer is damaging to hair and skin, so any formula with developer in it, I tried to keep it on for less than an hour. I ended up playing a game of DotA2 while doing my pink dye processing, so that ended up staying for longer than instructed in the packaging (20 mins).
+I collect a bunch of plastic bags from takeout, so I usually use those to tightly wrap around my hair (have the print face outwards!), tie off the extra bit with a rubber band, and let it sit. Like I said earlier, developer is damaging to hair and skin, so any formula with developer in it, I tried to keep it in for less than an hour. I ended up playing a game of DotA2 while doing my pink dye processing, so that ended up staying for longer than instructed in the packaging (20 mins).
 
 ## Bleach Round One
 July 22, 2019
