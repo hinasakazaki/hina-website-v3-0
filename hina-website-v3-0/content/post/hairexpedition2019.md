@@ -13,7 +13,7 @@ Salon results were beautiful, but I wanted to try the bleach & color myself this
 
 Disclaimer, I'm obviously not a professional, so try things at your own risk, as I did. Use gloves!!
 
-** TL;DR**
+**TL;DR**
 
 - My hair didn't damage much after 3 rounds of bleach with 2 week spaces between with Olaplex.
 - Hair comes out more evenly if someone else does it. Don't forget to use gloves!
@@ -22,7 +22,7 @@ Disclaimer, I'm obviously not a professional, so try things at your own risk, as
 - Supplies cost $227 altogether, but there is a lot left.
 - Watch lots of YouTube videos, have fun, chill out, everything fades someday.
 
-![TLDR(../../img/hair-2019/tldr.png)
+![TLDR](../../img/hair-2019/tldr.png)
 
 ## Table of Contents
 
@@ -223,7 +223,7 @@ August 18, 2019
 
 Note that I purchased 3 dyes at the beginning of this journey from Amazon: Silver, Lavender, and Rose Gold. As you can tell, the Rose Gold was a backup if none of others worked. I really wanted silver-lavender hair. By the time, I had only a bit of the silver dye left, so I decided to mix those two, and put it in my hair. I did this step very similarly to my last silver dye session.
 
-It was late in the day and I really hoped this would work. It was a Sunday night with very little options. This is leading to the worst outcome of this journey...
+It was late in the day and I really hoped this would work. It was a Sunday night with very little options. This lead to the most exigent part of this journey...
 
 ![Photo in the mirror](../../img/hair-2019/6-lavender/mirror.jpg)
 
