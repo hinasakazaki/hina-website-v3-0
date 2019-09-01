@@ -140,7 +140,7 @@ I did this part alone, using almost all of the tube. This part was pretty straig
 
 ![Right](../../img/hair-2019/3-silverdye/right.JPG)
 
-And in indirect lighting:
+And under indirect lighting:
 
 ![Back in indirect lighting](../../img/hair-2019/3-silverdye/indirect-back.JPG)
 
@@ -211,7 +211,7 @@ Absolutely. However, by this time, I was sick of having "boring" "natural-tone" 
 ## Lavender Dye
 August 18, 2019
 
-Note that I purchased 3 dyes at the beginning of this journey from Amazon: Silver, Lavender, and Rose Gold. As you can tell, the Rose Gold was kind of a backup if none of this worked. I really wanted silver-lavender hair. By the time, I had only a bit of the silver dye left, so I decided to mix those two, and put it in my hair. I did this step very similarly to my last silver dye session.
+Note that I purchased 3 dyes at the beginning of this journey from Amazon: Silver, Lavender, and Rose Gold. As you can tell, the Rose Gold was a backup if none of others worked. I really wanted silver-lavender hair. By the time, I had only a bit of the silver dye left, so I decided to mix those two, and put it in my hair. I did this step very similarly to my last silver dye session.
 
 It was late in the day and I really hoped this would work. It was a Sunday night with very little options. This is leading to the worst outcome of this journey...
 
