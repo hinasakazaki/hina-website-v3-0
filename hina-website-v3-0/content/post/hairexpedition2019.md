@@ -5,11 +5,11 @@ title = "Summer 2019 Hair Expedition"
 tags = ["blog", "projects"]
 +++
 
-Like a typical femme-person-about-to-get-married, I grew my hair out for the wedding. The 20 inches of thick, healthy hair performed well on our big day, and by that time, I was so sick of having the same hair. Historically I had done all sorts of stuff, color, ombre, side-buzz… and finally, I could unleash my creativity and apply the scientific method on this long, substantive canvas once again.
+Like a typical femme-person-about-to-get-married, I grew my hair out for the wedding. The 20 inches of thick, healthy hair performed well on our big day, and by that time, I was so sick of having the same hair. Historically I had done all sorts of stuff (color, ombre, side-buzz…), and finally, I could unleash my creativity and apply the scientific method on this long, substantive canvas once again.
 
-I used to get my hair bleached and colored at a salon in Berkeley. The first time around, it cost $368 and something like 6 hours (two sessions, 3 hours each). My hair is extremely thick and numerous; another East Asian American friend of mine had her virgin hair lifted to a [Level 8~9](https://ultimatelooks.com/blogs/news/an-introduction-to-hair-levels-and-tones-finding-your-perfect-hair-color) in one bleach sitting, and that definitely reduces the cost and time it takes. Basically, you won't know the time & money it costs to get your hair changed until you do it.
+I used to get my hair bleached and colored at a salon in Berkeley. The first time around, it cost $368 and something like 6 hours (two sessions, 3 hours each). My hair is extremely thick and numerous; another East Asian American friend of mine had her virgin hair lifted to a [Level 8~9](https://ultimatelooks.com/blogs/news/an-introduction-to-hair-levels-and-tones-finding-your-perfect-hair-color) in one bleach sitting, and that definitely reduces the cost and time it takes. Basically, you won't know the time and money it costs to get your hair changed until you do it.
 
-Salon results were beautiful, but I wanted to try the bleach & color myself this time because of (1) convenience, (2) price, (3) challenge. I don't like sitting at a salon for hours, and not have the freedom of eating, going to the bathroom, and entertaining myself with whatever I want. I assumed that doing my own hair would cost a lot less, because a hairdresser is extremely involved during bleach & color process; doing it myself (with the help of my spouse) means I’m basically just paying for supplies. Finally, I enjoy the challenge of learning something new and executing it. The research about how hair bleach/toner/dye works, chemistry behind Olaplex; all of this is super fun and while doing it is much harder than it looks, I simply wanted to try.
+Salon results were beautiful, but I wanted to try the bleach and color myself this time because of a combination of (1) convenience, (2) price, and (3) challenge. I don't like sitting at a salon for hours and not have the freedom of eating, going to the bathroom, and entertaining myself with whatever I want. I assumed that doing my own hair would cost a lot less, because a hairdresser is extremely involved during the bleach and color process; doing it myself (with the help of my spouse) means I’m basically just paying for supplies. Finally, I enjoy the challenge of learning something new and executing it. . It was super fun to research how hair bleach/toner/dye works, the chemistry behind Olaplex, and so on, and while doing it is much harder than it looks, I simply wanted to try.
 
 Disclaimer, I'm obviously not a professional, so try things at your own risk, as I did. Use gloves!!
 
@@ -20,7 +20,7 @@ Disclaimer, I'm obviously not a professional, so try things at your own risk, as
 - Wella T18 can subtly change the tone of a Level 7 hair but obviously does not lift its color.
 - Don't try pastel tones if you're not at least Level 9 all over.
 - Supplies cost $227 altogether, but there is a lot left.
-- Watch lots of YouTube videos, have fun, chill out, everything fades someday.
+- Watch lots of YouTube videos, have fun, chill out -- everything fades someday.
 
 ![TLDR](../../img/hair-2019/tldr.png)
 
@@ -79,41 +79,41 @@ I would consider this a Level 2 hair. We'll find that it has strong red underton
 
 ### Time
 
-I gave myself 3 hour blocks of time for each stage so that I have time to prep, do the thing (put the bleach/dye over), wash once, towel-dry, put in Olaplex No. 2, wait 20 minutes, wash out the Olaplex, condition my hair, dry, and possibly react.
+I gave myself 3 hour blocks of time for each stage so that I had time to prep, do the thing (put the bleach/dye on the hair), wash once, towel-dry, put in Olaplex No. 2, wait 20 minutes, wash out the Olaplex, condition my hair, dry, and possibly come up with a plan if the result was unexpected.
 
-Whenever you use a developer, your hair is being damaged by the hydrogen peroxide (the volume corresponds to the amount of hydrogen peroxide) opening the hair shaft to react with the melanin, breaking their double bonds eliminating their ability to absorb light. Doing this repeatedly without giving much time for the hair to recover its natural moisture and oils will make the hair weaker and could cause breakage. It's also terrible for your scalp - that's why you feel an itching burning sensation. This is why I make sure to space out my use of developer mixtures; people recommend 2 weeks, so that's what I did.
+Whenever you use a developer, your hair is being damaged by the hydrogen peroxide (the volume corresponds to the amount of hydrogen peroxide), opening the hair shaft to react with the melanin and breaking their double bonds which eliminates their ability to absorb light. Doing this repeatedly without giving much time for the hair to recover its natural moisture and oils will make the hair weaker and can cause breakage. It's also terrible for your scalp -- that's why you feel an itching burning sensation. This is why I made sure to space out my use of developer mixtures; people recommend 2 weeks, so that's what I did.
 
 ### Prep
-First thing I do before any session is to put on a shirt that I don't care about and put vaseline all over exposed skin. Bleach formula can sometimes splatter on arms and legs, and I've found that if left there for a while, it ends up making small white spots (though usually it recovers quickly, I can't imagine it being healthy.) So, I rub a thin layer of vaseline all over my arms, and a thicker layer on my ears, neck, and face. 
+First thing I do before any session is to put on a shirt that I don't care about and put vaseline all over any exposed skin. Bleach formula can sometimes splatter on arms and legs, and I've found that if left there for a while, it ends up making small white spots (though usually it recovers quickly, I can't imagine it being healthy.) So, I rub a thin layer of vaseline all over my arms, and a thicker layer on my ears, neck, and face. 
 
 If you have long hair, and you don't tie up your hair while bleaching, the bleach formula can seep through your shirt and cause itchiness in your back. This happened to me. Since then, I've been careful about wearing a little plastic bag cape or tying my hair up through the process.
 
-Then, I put my gloves on, and start making the formula. Having a smooth formula helps bleach/color evenly, and it's really important to not rush here. Small batches to be easier to mix. I mix with the brush, but I think a whisk would do a better job. When making bleach mix with Olaplex, make sure your bleach & developer is well mixed before mixing in Olaplex.
+Then, I put my gloves on, and start making the formula. Having a smooth formula helps bleach/color evenly, and it's really important to not rush here. Small batches are easier to mix. I mix with the brush, but I think a whisk would do a better job. When making bleach mix with Olaplex, make sure your bleach and developer is well mixed before mixing in Olaplex.
 
 ### Blocking and Keeping Track of Progress
 
 I am very bad at this part, but I've learned some tricks.
 
-I first section my hair into four sections before mixing the formula - top left, top right, bottom left, bottom right. Then, I take thin layers of hair and apply the formula on both sides, and massage it in the hair. I just kind of whip the hair on one side so that it doesn’t get mixed up with the rest of the hair in the section. It’s definitely made more challenging by having lots of hair.
+First , I section my hair into four sections before mixing the formula:top left, top right, bottom left, bottom right. Then, I take thin layers of hair and apply the formula on both sides, and massage it into the hair. I just kind of set the hair on one side so that it doesn’t get mixed up with the rest of the hair in the section. It’s definitely made more challenging by having lots of hair.
 
 This is one of those things that's better seen than explained, so here's a video where I learned this technique: [HOW TO BLEACH ROOTS + TONE with WELLA T10 (AT HOME)](https://www.youtube.com/watch?v=k4iO9pIxVHc&t=3s).
 
 ### Processing
 
-I collect a bunch of plastic bags from takeout, so I usually use those to tightly wrap around my hair (have the print face outwards!), tie off the extra bit with a rubber band, and let it sit. Like I said earlier, developer is damaging to hair and skin, so any formula with developer in it, I tried to keep it in for less than an hour. I ended up playing a game of DotA2 while doing my pink dye processing, so that ended up staying for longer than instructed in the packaging (20 mins).
+I collect a bunch of plastic bags from takeout, so I usually use those to tightly wrap around my hair (have the print face outwards!), tie off the extra bit with a rubber band, and let it sit. Like I said earlier, developer is damaging to hair and skin, so  I tried to keep any formula with developer in for less than an hour. I ended up playing a game of DotA2 while doing my pink dye processing, so that ended up staying for longer than instructed in the packaging (20 mins).
 
 ## Bleach Round One
 July 22, 2019
 
 Supplies used:
 
-- 2.5 scoops of bleach
+- 2.5 scoops of bleach*
 - 5 scoops of the 30 volume developer
 - 1/8 oz Olaplex No. 1
 
 *Note that 1 scoop here means 1.3 ounces!! I measured using the scoop that came with the bleach powder.
 
-I started off with 2 scoop bleach + 4 scoops 30 volume developer, split my hair to four sections, started from the bottom and worked up. I had my spouse do the roots. 
+I started off with 2 scoop bleach + 4 scoops 30 volume developer, split my hair to four sections,and started from the bottom and worked up. I had my spouse do the roots. 
 Turns out I had missed lots of sections. I made more of the mixture, but my spouse didn't really realize how much product he was supposed to use, so it ended up looking pretty spotty. As you can tell on one of my side pictures, but there was a very bright spot on the top of my head from me putting the bleach early on in one section of the roots.
 
 I ended up having the bottom parts sit with bleach for about an hour because the process took such a long time. After a quick shower, I did a bit of touch up with the remaining bleach mixture on the very obviously still-untouched front bits.
@@ -130,11 +130,12 @@ This is under indirect light:
 
 ![Back Under Indirect Light](../../img/hair-2019/1-bleach/back-indirect-light.JPG)
 
-Learnings:
+Things I learned:
 
 - Use more product!
 - Work fast!
-- So far, no damage and clearly not light enough to put in any color. Let's keep going...
+
+So far, my hair had no damage and was clearly not light enough to put in any color. Let's keep going...
 
 ## Bleach Round Two
 August 3, 2019
@@ -145,7 +146,7 @@ Supplies used:
 - ~6 scoops of 30 volume developer
 - 1/4 oz Olaplex No. 1
 
-This time, my spouse did all the work. He covered the dark parts remaining from last round of bleach, we left it on for 10 minutes, and proceeded to do the remainder in sections. The roots were done at the end to avoid hot roots. I mixed the bleach formula in small batches to keep them "fresh", not sure if that had any impact, but this round seemed more even than the last time. I left in the bleach for long enough to see my roots lift to the level as the other hair.
+This time, my spouse did all the work. He covered the dark parts remaining from last round of bleach, we left it on for 10 minutes, and proceeded to do the remainder in sections. The roots were done at the end to avoid hot roots. I mixed the bleach formula in small batches to keep them "fresh" -- I'm not sure if that had any impact, but this round seemed more even than the last time. I left the bleach in for long enough to see my roots lift to the same level as the other hair.
 
 The result is *orange*. It does not look good with my skin. I kept this for one day, but I knew I didn't want to keep it for more than a day.
 
@@ -159,21 +160,22 @@ The result is *orange*. It does not look good with my skin. I kept this for one 
 
 ![Back](../../img/hair-2019/2-bleach/selfie.JPG)
 
-Learnings:
+Things I learned:
 
-- Someone else doing your hair > trying to do your own hair
-- Still no damage, let's see how I feel about another round of bleach or just add color.
+- Someone else doing your hair is better than trying to do your own hair.
+
+My hair still had no damage,so it was on to either another round of bleach or just try adding some color.
 
 ## Silver Dye
 August 4, 2019
 
 First appearance of **DYE**!! Finally, something other than bleaching!
 
-The dye I used is “Sparks Long Lasting Bright Hair” it retails for around $8 for 3oz. I use this dye for the rest of this expedition -- it is a deposit dye so it does not need any additional chemicals, you just squeeze it out of the tube and apply it on your hair.
+The dye I used is “Sparks Long Lasting Bright Hair” (it retails for around $8 for 3oz). I used this dye for the rest of this expedition. It’s a deposit dye so it doesn’t need any additional chemicals, you just squeeze it out of the tube and apply it on your hair.
 
 ![Dye](../../img/hair-2019/3-silverdye/starbright-silver-dye.jpg)
 
-I did this part alone, using almost all of the tube. This part was pretty straightforward, I just soaked the hair with the dye and let it sit for 30 minutes.
+I did this part alone, using almost all of the tube. This part was pretty straightforward: I just soaked the hair with the dye and let it sit for 30 minutes.
 
 ![Back](../../img/hair-2019/3-silverdye/back.JPG)
 
@@ -191,7 +193,7 @@ You can tell the hair settled down a lot, and it looks much better than the day 
 
 ![Selfie](../../img/hair-2019/3-silverdye/selfie.jpg)
 
-Learnings:
+Things I learned:
 
 - You can use dye as toner.
 
@@ -201,10 +203,10 @@ August 17, 2019
 Supplies Used:
 
 - 2.5 scoops of bleach + maybe another half scoop for correction
-- Double the amount of bleach for 30 volume developer
+- ~5 scoops 30 volume developer
 - 1/4 oz Olaplex No. 1
 
-Though in the last round of bleach, I learned that it's better when my spouse does all my hair, I could not resist, and bleached my own hair. This time, after watching the various techniques used by YouTubers doing their own roots, I thought I did a better job. My spouse still went in and did my roots. Here, I left my roots in for too long, though I didn't leave the bleach in total for more than an hour. 
+While in the last round of bleaching I learned that it’s better when my spouse does all my hair, I coudln’t resist and bleached my own hair. This time, after watching the various techniques used by YouTubers doing their own roots, I thought I did a better job. My spouse still went in and did my roots. Here, I left my roots in for too long, though I didn’t leave the bleach in for more than an hour total.
 
 I knew from the beginning that I did not want to do more than 3 bleach sessions, so I was going to stop here. It did not lighten to a platinum as I had wished, but I had my hopes up for the Wella T18 to remove the yellow/orange.
 
@@ -212,26 +214,26 @@ I knew from the beginning that I did not want to do more than 3 bleach sessions,
 
 ![Left](../../img/hair-2019/4-bleach/left.JPG)
 
-Learnings:
+Things I learned:
 
 - Do the roots last, and be conservative about the amount of time you leave the bleach in the roots. 
-- Someone else doing your hair > trying to do your own hair.
+- Someone else doing your hair is better than trying to do your own hair.
 
 ## Wella T18 Toner
 August 18, 2019
 
 Supplies Used:
 
-- 1 bottle of the Wella T18 Toner
-- 2 times that amount for **20** volume developer
+- 1 bottle (1.4oz) of the Wella T18 Toner
+- 2.8 oz of **20** volume developer (Measure by putting the developer in the empty bottle and dumping twice).
 
-In hindsight, I should have not purchased 4 bottles of the Wella T18 toner, and the Wella T18 toner does not do much to the yellow light orange hair that I have after my 3 bleach sessions. It's hard to determine what level my hair is before the toner - sort of a level 9 for the roots and 7 for the rest.
+In hindsight, I shouldn’t have purchased 4 bottles of the Wella T18 toner, and the Wella T18 toner does not do much to the yellow light orange hair that I had after my 3 bleach sessions. It’s hard to determine what level my hair was before the toner -- sort of a level 9 for the roots and 7 for the rest.
 
-Note that I'm using the 20 volume developer here, not 30 volume, because the toner is to put color in, not to lift the existing hair color.
+Note that I’m using the 20 volume developer here, not 30 volume, because the toner is to put color in, not to lift the existing hair color out.
 
-I did this step all by myself too. I had damp hair (maybe too damp?) and added the toner mixture in strands using a brush, keeping track of where I had already put product in. I did the process roots first, and blended it through my hair after my roots were all saturated.
+I did this step all by myself too. I had damp hair (maybe too damp?) and added the toner mixture in strands using a brush, keeping track of where I had already put product in. I did the roots first, and blended it through my hair after my roots were all saturated.
 
-Comparing to the pictures from Bleach #3, the hair around my face does not clash with my skin as much. The photos are also just better because I'm wearing makeup. 
+Compared to the pictures from Bleach #3, the hair around my face does not clash with my skin as much. The photos are also just better because I’m wearing makeup.
 
 ![Back](../../img/hair-2019/5-tone/back.JPG)
 
@@ -241,7 +243,7 @@ Comparing to the pictures from Bleach #3, the hair around my face does not clash
 
 ![Right](../../img/hair-2019/5-tone/right.JPG)
 
-Learnings:
+Things I learned:
 
 - Wella T18 does not do much to Level 7 hair color, but has a subtle effect of turning orange yellow to more of a strawberry blonde.
 - Don't buy 4 bottles of something you don't know will work or not.
@@ -252,9 +254,9 @@ Absolutely. However, by this time, I was sick of having "boring" "natural-tone" 
 ## Lavender Dye
 August 18, 2019
 
-Note that I purchased 3 dyes at the beginning of this journey from Amazon: Silver, Lavender, and Rose Gold. As you can tell, the Rose Gold was a backup if none of others worked. I really wanted silver-lavender hair. By the time, I had only a bit of the silver dye left, so I decided to mix those two, and put it in my hair. I did this step very similarly to my last silver dye session.
+I purchased three dyes from Amazon at the beginning of this journey: Silver, Lavender, and Rose Gold.he Rose Gold was a backup if none of others worked. I really wanted silver-lavender hair. By this time, I had only a bit of the silver dye left, so I decided to mix those two and put it in my hair. I did this step the same way I did my previous silver dye session.
 
-It was late in the day and I really hoped this would work. It was a Sunday night with very little options. This lead to the most trying part of this journey...
+It was late in the day and I really hoped this would work. It was a Sunday night with very little options. This lead to the most trying part of this journey…
 
 ![Photo in the mirror](../../img/hair-2019/6-lavender/mirror.jpg)
 
@@ -262,9 +264,9 @@ It was late in the day and I really hoped this would work. It was a Sunday night
 
 ![Left](../../img/hair-2019/6-lavender/back.jpg)
 
-As you can see, the top part of my hair, which was a Level 9 picked up the pastel lavender, and the rest remained strawberry blonde. The next morning, I put my favorite cap on and headed to work, with the intent to fix it that night. 
+As you can see, the top part of my hair, which was a Level 9, picked up the pastel lavender, and the rest remained strawberry blonde. The next morning, I put my favorite cap on and headed to work, with the intent to fix it that night.
 
-Learnings:
+Things I learned:
 
 - Don't expect pastel colors to show up on Level 7 hair color.
 - If your base hair is patchy, colors will show up patchily as well.
@@ -274,14 +276,14 @@ August 19, 2019
 
 Monday after work, I rushed to the local beauty store. It was close to closing time, so I called ahead to make sure they were not closing early.
 
-My plan was to buy two bottles of the "Purple Passion" Sparks Hair Dye. Last time I was at the store, I saw that they carry Sparks hair dye, and Purple Passion seemed nice. Dark, but purple. I had given up pastel color, at this point, I just wanted to cover the failed lavender.
+My plan was to buy two bottles of the “Purple Passion” Sparks Hair Dye. Last time I was at the store, I saw that they carry Sparks hair dye, and Purple Passion seemed nice: dark, but purple. I had given up on pastel colors at this point -- I just wanted to cover the failed lavender.
 
-Of course, they are out of the purple dye. I slightly panic, and consider my options while under a time crunch.
+Of course, they were out of the purple dye. I slightly panicked, and considered my options while under a time crunch.
 
-- I have one bottle of rose gold at home.
-- I could buy an additional bottle of rose gold, but what if it's not dark enough and it only shows up at the roots again?
-- I don't want to wear a hat tomorrow too; I want to wear my noise cancelling headphones at work. (Note: No one actually cares what I look like at work. I'm just vain.)
-- I will pick up something dark that blends nicely with Rose Gold, that will give me enough dye and ensure that the result is not patchy.
+- I had one bottle of rose gold at home.
+- I could buy an additional bottle of rose gold, but what if it’s not dark enough and it only shows up at the roots again?
+- I didn’t want to wear a hat tomorrow too; I wanted to wear my noise cancelling headphones at work. (Note: No one actually cares what I look like at work. I’m just vain.)
+- I wanted to pick up something dark that blends nicely with Rose Gold, that would give me enough dye to ensure that the result was not patchy.
 
 So, I picked up the "Rad Raspberry" color.
 
@@ -318,28 +320,28 @@ Here are all of the receipts accumulated so far from various retailers.
 
 Overstock 
 
-- Olaplex Traveling Stylist Kit (1 bottle of Olaplex No. 1, 2 bottles of No. 2) 80.62 
+- Olaplex Traveling Stylist Kit (1 bottle of Olaplex No. 1, 2 bottles of No. 2) $80.62 
 
 Amazon
 
-- Sparks Hair Color in Starbright Silver (3 oz) 6.89
-- Sparks Hair Color in La La Lavender (3 oz) 5.32
-- Sparks Hair Color in Rose Gold (3 oz) 7.49
-- Shimmer Lights Shampoo & Conditioner 20.56
-- ATB 3 pcs Professional Salon Hair Coloring Dyeing Kit - Dye Brush & Comb/Mixing Bowl/Tint Tool 5.49
-- L'Oreal Oreor 30 Volume Creme Developer, 16 Ounce 7.99
-- L'Oreal Quick Blue Powder Bleach, 16 Ounce 16.03
+- Sparks Hair Color in Starbright Silver (3 oz) $6.89
+- Sparks Hair Color in La La Lavender (3 oz) $5.32
+- Sparks Hair Color in Rose Gold (3 oz) $7.49
+- Shimmer Lights Shampoo & Conditioner $20.56
+- ATB 3 pcs Professional Salon Hair Coloring Dyeing Kit - Dye Brush & Comb/Mixing Bowl/Tint Tool $5.49
+- L'Oreal Oreor 30 Volume Creme Developer, 16 Ounce $7.99
+- L'Oreal Quick Blue Powder Bleach, 16 Ounce $16.03
 
 Uptown Beauty
 
-- Olaplex No. 6 Bond Smoother 30.66
-- Sparks Hair Color in Rad Raspberry (3 oz) 8.75
+- Olaplex No. 6 Bond Smoother $30.66
+- Sparks Hair Color in Rad Raspberry (3 oz) $8.75
 
 Sally Beauty
  
-- Sensitive Scalp 30 Volume Creme Developer (32 oz) 5.59
-- Sensitive Scalp 20 Volume Creme Developer (32 oz) 5.59
-- Wella T18 Color Charm Lightest Ash Blonde Toner (4 bottles) 26.36
+- Sensitive Scalp 30 Volume Creme Developer (32 oz) $5.59
+- Sensitive Scalp 20 Volume Creme Developer (32 oz) $5.59
+- Wella T18 Color Charm Lightest Ash Blonde Toner (4 bottles) $26.36
 
 This totals to **$227.34.**
 
@@ -356,11 +358,10 @@ This is a rough estimate of what I have left:
 
 ## Looking Forward
 
-I'm so happy that I did this, and I'm pretty positive that I'll keep doing this. 
-I've built up a lot of knowledge about hair and chemicals, and having bright hair is pretty addictive.
+I’m so happy that I did this, and I’m pretty positive that I’ll keep doing this. I’ve built up a lot of knowledge about hair and chemicals, and having bright hair is pretty addictive.
 
-As this pink color fades, I'm hoping to transition to a purple, and maybe try some shadow root techniques for the roots to look more natural.
+As this pink color fades, I’m hoping to transition to a purple, and maybe try some shadow root techniques to help make the roots to look more natural.
 
-I have not given up my pastel dreams, and I think that I will try it out when I have shorter hair. Bleaching hair evenly is hard enough, it's made even harder when you have long hair.
+I have not given up my pastel dreams, and I think that I will try it out when I have shorter hair. Bleaching hair evenly is hard enough; it’s made even harder when you have long hair.
 
-I'm not ready to cut off my long hair, but when that time comes, the Wella T18 toner might come handy.
+I’m not ready to cut off my long hair, but when that time comes, I might try pastel or silver, and the Wella T18 toner might come handy.
