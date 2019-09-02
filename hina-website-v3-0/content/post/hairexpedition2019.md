@@ -206,7 +206,7 @@ Supplies Used:
 - ~5 scoops 30 volume developer
 - 1/4 oz Olaplex No. 1
 
-While in the last round of bleaching I learned that it’s better when my spouse does all my hair, I coudln’t resist and bleached my own hair. This time, after watching the various techniques used by YouTubers doing their own roots, I thought I did a better job. My spouse still went in and did my roots. Here, I left my roots in for too long, though I didn’t leave the bleach in for more than an hour total.
+While in the last round of bleaching I learned that it’s better when my spouse does all my hair, I couldn't resist and bleached my own hair. This time, after watching the various techniques used by YouTubers doing their own roots, I thought I did a better job. My spouse still went in and did my roots. Here, I left my roots in for too long, though I didn’t leave the bleach in for more than an hour total.
 
 I knew from the beginning that I did not want to do more than 3 bleach sessions, so I was going to stop here. It did not lighten to a platinum as I had wished, but I had my hopes up for the Wella T18 to remove the yellow/orange.
 
