@@ -9,7 +9,7 @@ Like a typical femme-person-about-to-get-married, I grew my hair out for the wed
 
 I used to get my hair bleached and colored at a salon in Berkeley. The first time around, it cost $368 and something like 6 hours (two sessions, 3 hours each). My hair is extremely thick and numerous; another East Asian American friend of mine had her virgin hair lifted to a [Level 8~9](https://ultimatelooks.com/blogs/news/an-introduction-to-hair-levels-and-tones-finding-your-perfect-hair-color) in one bleach sitting, and that definitely reduces the cost and time it takes. Basically, you won't know the time and money it costs to get your hair changed until you do it.
 
-Salon results were beautiful, but I wanted to try the bleach and color myself this time because of a combination of (1) convenience, (2) price, and (3) challenge. I don't like sitting at a salon for hours and not have the freedom of eating, going to the bathroom, and entertaining myself with whatever I want. I assumed that doing my own hair would cost a lot less, because a hairdresser is extremely involved during the bleach and color process; doing it myself (with the help of my spouse) means I’m basically just paying for supplies. Finally, I enjoy the challenge of learning something new and executing it. . It was super fun to research how hair bleach/toner/dye works, the chemistry behind Olaplex, and so on, and while doing it is much harder than it looks, I simply wanted to try.
+Salon results were beautiful, but I wanted to try the bleach and color myself this time because of a combination of (1) convenience, (2) price, and (3) challenge. I don't like sitting at a salon for hours and not have the freedom of eating, going to the bathroom, and entertaining myself with whatever I want. I assumed that doing my own hair would cost a lot less, because a hairdresser is extremely involved during the bleach and color process; doing it myself (with the help of my spouse) means I’m basically just paying for supplies. Finally, I enjoy the challenge of learning something new and executing it. It was super fun to research how hair bleach/toner/dye works, the chemistry behind Olaplex, and so on, and while doing it is much harder than it looks, I simply wanted to try.
 
 Disclaimer, I'm obviously not a professional, so try things at your own risk, as I did. Use gloves!!
 
@@ -17,7 +17,7 @@ Disclaimer, I'm obviously not a professional, so try things at your own risk, as
 
 - My hair didn't damage much after 3 rounds of bleach (with Olaplex) with 2 week spaces between.
 - Hair comes out more evenly if someone else does it. Don't forget to use gloves!
-- Wella T18 can subtly change the tone of a Level 7 hair but obviously does not lift its color.
+- Wella T18 can subtly change the tone of a Level 7 hair but does not lift its color.
 - Don't try pastel tones if you're not at least Level 9 all over.
 - Supplies cost $227 altogether, but there is a lot left.
 - Watch lots of YouTube videos, have fun, chill out -- everything fades someday.
@@ -37,6 +37,8 @@ Disclaimer, I'm obviously not a professional, so try things at your own risk, as
 [August 4](#silver-dye) - Silver Dye
 
 [August 17](#bleach-round-three) - Bleach Round #3
+
+[August 18](#wella-t18-toner) - Wella T18 Toner
 
 [August 18](#lavender-dye) - Lavender Dye
 
@@ -59,7 +61,7 @@ Here are some that stood out to me:
 - [Lab Muffin: HOW DOES OLAPLEX HAIR TREATMENT WORK?](https://labmuffin.com/how-does-olaplex-hair-treatment-work/): Explains how peroxide caps S-H with a sulfate group, which keeps the disulfide bonds broken, but  bis-aminopropyl diglycol dimaleate from Olaplex extends the sulfurs to make the hair stronger.
 - [What is the Difference Between Ammonia and Ammonia-free Hair color?](https://www.shagginsalon.com/blog/2014/5/22/what-is-the-difference-between-ammonia-and-ammonia-free-hair-color): I read this when considering the Wella T18 toner as an option for getting the yellow/orange toned out before color, and explains how ammonia allows hair follicles to swell and absorb dye better.
 - [The Art of Colour – Colour Theory for Hairdressing
-](http://hair-and-makeup-artist.com/colour-theory-hairdressing/),[Naturally Curly: What Exactly Does Bleach Do to Your Hair?](https://www.naturallycurly.com/curlreading/home/what-exactly-does-bleach-do-to-your-hair) These articles explain what bleach does to your hair and melanin molecules.
+](http://hair-and-makeup-artist.com/colour-theory-hairdressing/),[Naturally Curly: What Exactly Does Bleach Do to Your Hair?](https://www.naturallycurly.com/curlreading/home/what-exactly-does-bleach-do-to-your-hair) These articles explain what bleach does to your hair and melanin molecules. Basically, eumelanin provides the darkness in your hair, and pheomelanin  brings the warmness (red/gold). Because the blue molecules are largest and closest to the cuticle, they fade easily. Red is deeper and smaller than blue, and yellow is even smaller and the deepest in the cortex. 
 
 I also watched basically all of the videos that come up on YouTube for "Bleaching hair at home", all of them were informative and some of the folks have really great technique.
 
