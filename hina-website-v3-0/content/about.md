@@ -1,5 +1,5 @@
 ## About Me
-I'm a software engineer at Google working on [YouTube](https://www.youtube.com/) with the mission of making YouTube a safer place.
+I'm a software engineer working on research-driven products in emerging domains.
 
 Formerly, I worked as a Senior Software Engineer at Zynga where I work on shared client SDKs, a package management system for distributing SDKs across games, and do lots of recruiting/extracurriculars on the side.
 
