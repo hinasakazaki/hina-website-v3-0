@@ -1,5 +1,5 @@
 +++
-date = "2020-03-15T12:29:45-04:00"
+date = "2020-03-15T17:47:45-04:00"
 draft = false
 title = "Story-based Japanese Games 2014-2019 Reviews"
 tags = ["blog", "reviews"]
