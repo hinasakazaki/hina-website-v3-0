@@ -18,7 +18,7 @@ In Japan, it's supposedly a community event where households contribute old fryi
 
 So I knew it was always an option if I ever had a lot of oil.
 
-In September of 2019, I went ahead and purchased a 4oz bag of NaOH (Lye) from Amazon, watched a bunch of YouTube videos, studied up on oil properties, and came up with the following tenants:
+In September of 2019, I went ahead and purchased a 4oz bag of NaOH (Lye) from Amazon, watched a bunch of YouTube videos, studied up on oil properties, and came up with the following tenets:
 
 1. I shall not buy any new supplies for making soap, besides from ingredients.
 2. I shall not buy large quantities of ingredients that will be left over after I get bored of this hobby.
