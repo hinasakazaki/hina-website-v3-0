@@ -9,9 +9,9 @@ tags = ["blog", "projects"]
 
 I started soaping for the following reasons:
 
-- We had old frying oil that we failed to take to the recycling center during our move in 2017.
-- I also had a gallon of old canola oil that one of my old roommates left between 2014 and 2015.
-- My spouse eats lots of bacon.
+- We had old oil we used for frying that we failed to take to the recycling center during our move in 2017.
+- We had a gallon of old canola oil that one of my old roommates left between 2014 and 2015.
+- My spouse eats a lot of bacon.
 
 My mom had told me before that my grandma would make something called 廃油石鹸, which in English means "Waste oil soap" back in the day with old frying oil.  
 In Japan, it's supposedly a community event where households contribute old frying oil and dump them in a pot with a bunch of lye and distribute the mixture in old tofu containers and take them home to use as dish and laundry detergent.
@@ -202,7 +202,7 @@ I've used it for my hair twice now, and it's totally fine, maybe a little bit dr
 
 ## Other Attempts
 
-Here I will document other attempts.
+Here I will document other attempts at making soap.
 
 ![soap curing](../../img/soaping/curing.jpg)
 
