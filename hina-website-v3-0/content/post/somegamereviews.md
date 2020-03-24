@@ -127,7 +127,7 @@ In terms of gameplay, I enjoyed the open world parts of the game where I could p
 I liked the sort of items you could get from monsters, like tenderloins, steak, roots, fillets, and the fact we could cook them.
 I HATED fishing, which I had to do some of, for the sake of my cat:
 
-![father_daughter_dance](../../img/game-reviews/ffxv_cat.jpg)
+![FFXV Cat](../../img/game-reviews/ffxv_cat.jpg)
 On the other hand, there's a lot of iconic "Final Fantasy" moments (Shiva's Diamond Dust, Ifrit) integrated in the real time battle system.
 Often times, this would be confusing, and I thought that was the weakest part of the game.
 I'm watched the FFVII demo, and it might have that same problem.
