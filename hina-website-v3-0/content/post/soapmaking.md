@@ -11,7 +11,7 @@ I started soaping for the following reasons:
 
 - We had old oil we used for frying that we failed to take to the recycling center during our move in 2017.
 - We had a gallon of old canola oil that one of my old roommates left between 2014 and 2015.
-- My spouse eats a lot of bacon.
+- My spouse eats a lot of bacon due to his keto diet.
 
 My mom had told me before that my grandma would make something called 廃油石鹸, which in English means "Waste oil soap" back in the day with old frying oil.  
 In Japan, it's supposedly a community event where households contribute old frying oil and dump them in a pot with a bunch of lye and distribute the mixture in old tofu containers and take them home to use as dish and laundry detergent.
@@ -24,6 +24,7 @@ In September of 2019, I went ahead and purchased a 4oz bag of NaOH (Lye) from Am
 2. I shall not buy large quantities of ingredients that will be left over after I get bored of this hobby.
 
 Thankfully, most of the ingredients for soapmaking are repurposable. Aroma oils can be used for aromatherapy, butters and oils can be used for beauty and cooking, and lye can be used for cooking or cleaning.
+You might suspect that using such old oils, my soaps must smell repulsive!! That is not the case. I've found with my recipes, the soaps smell fine, even when I foam it up and put it on my face. Thank you, essential oils, and thank you, lye?
 
 In this post, I will cover:
 
@@ -37,6 +38,8 @@ In this post, I will cover:
 
 - [Other Attempts (Such as coloring)](#other-attempts)
 
+- [Soapmaking as a Hobby](#soapmaking-as-a-hobby)
+
 ## Technique
 
 Making soap is kind of like making fudge, except that it's **super dangerous** and you have to wait a bunch.
@@ -48,7 +51,7 @@ In my own words:
 
 1. Measure and mix the oils together and warm them up to 110~130F.
 2. Measure and keep your essential oil nearby. Measure water and ice mixture (in a heat safe container) and keep it nearby.
-3. Prep your workstation with your big container, stick blender, rags, and molds. Clean up your work area.
+3. Prep your workstation with your big container, stick blender, rags, and molds. Clean up your work area. Turn on your vent.
 4. Wear gloves and goggles and cover your skin. I also wear a mask.
 5. Measure lye!!!! Be careful! 
 6. Gradually stir the lye INTO the water. 
@@ -63,6 +66,8 @@ In my own words:
 15. Let the soap cure in a ventilated place for 4 weeks.
 16. Success!
 
+It's probably a good idea to mention that lye, lye solution, uncured soap burns skin and damage eyes on contact. This is why we wear protection.
+ 
 This is me measuring the fats. Yes, the huge chunk is _cleaned_ bacon fat. Sorry if you think it's gross. (At least I'm not eating it?) 
 ![Measuring ](../../img/soaping/measuring.jpg)
 
@@ -72,12 +77,12 @@ I use:
 
 - Kitchen scale
 - I use old milk cartons and random containers (yogurt cups look nice) for molds.
-- Ninja The Warrior NJ200
+- Stick blender: Ninja The Warrior NJ200
 - Spatula
 - Old tupperware for the mixing
 - Random rags
 - Kitchen thermometer
-- Protection gear
+- Protection gear (rubber heatproof gloves, ski goggles, N95 mask, large hoodie, pants, socks)
 
 ### Recipes
 
@@ -234,6 +239,8 @@ It was still very soft.
 - 14.18g Fragrance Oil
 
 I used up a bar in like 4 days. At least I got some swirl practice!!
+There are a bunch of variations of [swirls for soapmaking](https://www.modernsoapmaking.com/cold-process-soap-design-techniques-and-tutorials/).
+Here I do what's called an in-the-pot-swirl.
 
 ![in the pot swirl](../../img/soaping/swirl.jpg)
 
@@ -248,3 +255,26 @@ The bits are dried and ground up herbs from my mom's garden.
 ![two-toned soap](../../img/soaping/two-tone.jpg)
 
 It made for good gifts.
+
+## Soapmaking as a Hobby
+
+I recommend soapmaking as a hobby for the following reasons:
+
+- Ingredients are repurposable in case you get bored of it.
+- Makes good gifts since everyone needs soap. Just be careful how to market your soap if you have sketchy oils in yours like I do.
+- Consumable, so you don't end up with a bunch just lying around.
+- Compact: I have a spot in my rolly shelf dedicated for curing soaps, and try not to make too much at once.
+- Thrilling: You have to be cautious and speedy when making soap. I always break a little bit of sweat after soapmaking. It's a good feeling.
+- You can get creative with your designs if you are an artsy person!
+
+There are people who transition this hobby into an actual gig, and I would like to caution against that because ingredients, packaging, marketing will get expensive. There are some artisans who make videos on YouTube that make really cool soap, so I am all about supporting them. 
+
+My soap will be just for me, family, and some friends who feel safe using my soap. Speaking of which, if you'd like some, feel free to reach out. I do not deliver, so you'd have to pick them up somewhere :) 
+
+
+## References
+
+[Uncle Jon's DIY and Outdoor](https://www.youtube.com/watch?v=luGGMGDtEgY&feature=emb_title)
+[Royalty Soaps](https://www.youtube.com/user/RoyaltySoaps)
+[Soap Queen](https://www.youtube.com/user/soapqueentv)
+[Ophelia's Soapery](https://www.youtube.com/channel/UClN5CUhtWenxWs8eD0qGlkg)
