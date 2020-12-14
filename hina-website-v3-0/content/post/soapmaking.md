@@ -275,6 +275,9 @@ My soap will be just for me, family, and some friends who feel safe using my soa
 ## References
 
 [Uncle Jon's DIY and Outdoor](https://www.youtube.com/watch?v=luGGMGDtEgY&feature=emb_title)
+
 [Royalty Soaps](https://www.youtube.com/user/RoyaltySoaps)
+
 [Soap Queen](https://www.youtube.com/user/soapqueentv)
+
 [Ophelia's Soapery](https://www.youtube.com/channel/UClN5CUhtWenxWs8eD0qGlkg)
