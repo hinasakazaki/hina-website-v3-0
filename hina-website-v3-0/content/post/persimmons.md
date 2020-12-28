@@ -7,11 +7,11 @@ tags = ["blog", "projects"]
 
 ![tray of persimmons](../../img/persimmons/tray.jpg)
 
-Late Summer of 2020, my spouse and I purchased a home. While the various fruit trees that it came with weren't the deciding factor, it certainly seems like they will become a large part of our lifestyle.
+Late Summer of 2020, my spouse and I purchased a home (a whole heap of fun which I don't want to think about). While the various fruit trees that it came with weren't the deciding factor, it certainly seems that they will become a large part of our lifestyle.
 
-We've only lived here for almost three months, and we spent quite a bit of effort on the hachiya persimmons for a good two months:
+We've only lived here for almost three months, and we've already spent quite a bit of effort on the hachiya persimmons for a good two months:
 
-- We scheduled people to come pick persimmons (socially distanced) and hosted them;
+- We recruited, scheduled, and hosted people to come pick persimmons (socially distanced);
 - Picking persimmons was a regular lunch hour activity for me for at least two weeks as interest for pickings waned;
 - Every day I would process ripe persimmons on the counter, puree them for later use;
 - I made and had persimmon smoothie (which also contained zucchini because of the zucchini explosion at my parents' place) every morning;
@@ -23,16 +23,18 @@ We didn't count the persimmons we harvested this year, though we may try next ye
 
 According to a friend who grew up with a persimmon tree, they alternate between high yield and low yield years. So maybe, next year will be a little more chill. Or a lot less chill.
 
-Here, I will outline how I managed to get consume of most of the persimmons. That being said, there are some ripe persimmons and deli containers containing persimmon pulp waiting to be consumed...
+Here, I will outline how I managed to get consume of most of the persimmons. That being said, there are some ripe persimmons and deli containers containing persimmon pulp waiting to be consumed (photo taken day of posting)...
 ![current freezer situation](../../img/persimmons/freezer.jpg)
 
-## Starting a Fruit Picking Farm Not-Business-Yet
+## Starting a Fruit Picking Not-Business-Yet
 
 Fruit-pickings are fun, and what better way to share the bounties than share the experience of harvesting fruit that you can take home for yourself?
 
 With covid-19 in full bloom, it's not as simple as having a huge fruit picking x housewarming party with all of our friends. And with our limited supplies, it won't be as efficient.
 
 So, no house-warming for now. We allotted 2 hour time slots for folks who were quarantined together to come on weekends to pick persimmons, socialize a bit in the yard, masked, and socially distanced. 
+
+We successfully recruited 8 parties (one not pictured) who each took anywhere between 10 to 40 persimmons. I pushed them to take as many as they can take, rather than what they wanted.  
 
 ![people picking persimmons](../../img/persimmons/party1.jpg)
 ![people picking persimmons](../../img/persimmons/party2.jpg)
@@ -55,7 +57,7 @@ A variant of this approach we did a little bit this year was just pick them ours
 
 ## Trying Recipes, Knowing What We'll Try Again
 
-First, I'll go over the recipes that had success and we'll try again, then in a single section go over ones where I'd make tweaks. 
+First, I'll go over the recipes that had success and we'll try again, then some that need more work.
 
 ### Japanese Dried Persimmons (干し柿）
 
@@ -89,6 +91,18 @@ It's kind of like a pumpkin pie but the streusel makes things interesting.
 ![pudding](../../img/persimmons/pie.JPG)
 
 This is another dessert that's very sweet, so it's good with whipped cream without any sugar. 
+
+### Persimmon Cookies (Added 12/27/2020)
+
+I made [this recipe](https://www.twopeasandtheirpod.com/persimmon-cookies/) without the frosting and most of the pulp being concentrated simmered down pulp.
+
+Just cream half cup butter with 1 cup sugar, add 1 cup persimmon pulp, 1 large egg, 1 teaspoon vanilla, then slowly incorporate a premixed 2 cups flour, 1 tsp baking soda, 1/2 tsp salt, 1 tsp cinnamon, 1/2 tsp cloves, 1/2 tsp nutmeg, and finally, add 1 cup raisins. 
+
+These are rather fluffy cookies, but super tasty; an excellent addition to my Christmas cookie platter.
+
+![cookie](../../img/persimmons/cookie.JPG)
+
+![cookies](../../img/persimmons/cookies.JPG)
 
 ### Ice Cream
 
@@ -144,6 +158,8 @@ Anyway, I like to currently make my smoothie with:
 - half a ripe hachiya persimmon
 - 1/2 cup of zucchini
 - some soymilk
+
+Here's a picture, probably not with the recipe above, plus some cinnamon on top. I am 100% over cinnamon at this point. I do not want a whiff of that for another 3 months.
 
 ![smoothie](../../img/persimmons/smoothie.jpg)
 
