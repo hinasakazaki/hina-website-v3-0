@@ -1,9 +1,14 @@
 ## About Me
-I'm a software engineer working on research-driven products in emerging domains.
+I'm a software engineer working on NLU for [Dialogflow](https://cloud.google.com/dialogflow/docs/).
 
-Formerly, I worked as a Senior Software Engineer at Zynga where I work on shared client SDKs, a package management system for distributing SDKs across games, and do lots of recruiting/extracurriculars on the side.
+At Google, I worked on YouTube Trust & Safety doing large scale data migrations and building new tools for reviewing content. 
 
-In my spare time, I lift weights, bake, play trombone, take photos of [succulents](https://www.instagram.com/sakazaki_succulents/), play [games](https://hinasakazaki.com/tags/reviews/), and make [games](https://hinasakazaki.com/tags/games/).
+I also worked at Google Research on a research driven product called Falken, a developer service that allows game developers to train AI to play their games quickly. We published an [Google AI Blog Post](https://ai.googleblog.com/2021/06/quickly-training-game-playing-agents.html) and an [OSS Project](https://github.com/google-research/falken). 
+I've also prepared a talk about this topic so please reach out to me for any speaker opportunities.
+
+Before Google, I worked as a Senior Software Engineer at Zynga where I developed shared client SDKs, a package management system for distributing SDKs across games, and did lots of recruiting/extracurriculars on the side.
+
+In my spare time, I lift weights, bake, [play trombone](https://www.youtube.com/playlist?list=PLE2A2A84B881965EC), take photos of [succulents](https://www.instagram.com/sakazaki_succulents/), play [games](https://hinasakazaki.com/tags/reviews/), and make [games](https://hinasakazaki.com/tags/games/).
 
 The opinions expressed on this website are my own and not those of my employers.
 
@@ -18,16 +23,22 @@ Meanwhile, I blogged, built websites, and played a lot of [Neopets](https://www.
 
 In high school, I applied to UC Berkeley with the intention of majoring in Economics only, until later that year, I played a game called Portal, which changed my life.
 
-After playing Portal, I decided I wanted to make games. 
+I decided I wanted to make games like Portal, learned programming, and majored in Computer Science.
 
-I majored in Computer Science, where for the first 3.5 years, I struggled a lot, but made a lot of friends.
+### Rika
 
-For the last semester, I made a lot of games and had lots of fun.
+Rika, or Matsurika, is our cat!
 
-### Side Projects
-My most recent side project is [Every Day the Game](https://github.com/hinasakazaki/EveryDayTheGame) which was released September 2017.
+We adopted her at 2 years old from [East Bay SPCA](https://eastbayspca.org/) after she gave birth to 6 kittens.
 
-![report card](../../img/everyday/reportcard.png)
-I documented a lot of my learnings and process in the github repo.
+October 2020
 
-Aside from my proposal game, I like making "cute with a twist" games that explores darker, uglier sides of humanity through cute, bright colored visuals. 
+![early Rika](../../img/rika/october_2020.jpg)
+
+May 2021
+
+![recent Rika](../../img/rika/may_2021.JPG)
+
+July 2021
+
+![recent Rika](../../img/rika/july_2021.jpg)
