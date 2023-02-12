@@ -1,5 +1,5 @@
 ## About Me
-I'm a software engineer working on NLU for [Dialogflow](https://cloud.google.com/dialogflow/docs/).
+I'm a Senior Software eEgineer working as TL NLU for [Dialogflow](https://cloud.google.com/dialogflow/docs/).
 
 At Google, I worked on YouTube Trust & Safety doing large scale data migrations and building new tools for reviewing content. 
 
